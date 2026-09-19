@@ -1,0 +1,1001 @@
+Incident_ID,Date,State,Sector,Incident_Type,Threat_Level,Personnel_Deployed,Equipment_Used,Response_Time_Min,Status
+INC00001,2024-12-08,Arunachal Pradesh,Bravo,Infiltration,Low,34,Drone,10,Monitoring
+INC00002,2024-09-16,Jammu & Kashmir,Charlie,Infiltration,High,23,UAV,21,Under Investigation
+INC00003,2024-08-27,Jammu & Kashmir,Echo,Infiltration,High,48,Radar,25,Under Investigation
+INC00004,2025-01-26,Punjab,Charlie,Infiltration,Low,38,Radar,37,Resolved
+INC00005,2024-06-03,Rajasthan,Charlie,Infiltration,High,26,Drone,55,Under Investigation
+INC00006,2024-03-31,Jammu & Kashmir,Charlie,Drone Activity,High,19,Night Vision,55,Monitoring
+INC00007,2025-05-06,Jammu & Kashmir,Echo,Drone Activity,High,55,UAV,18,Under Investigation
+INC00008,2024-06-30,Rajasthan,Charlie,Infiltration,Medium,53,Night Vision,28,Under Investigation
+INC00009,2024-01-08,Jammu & Kashmir,Charlie,Ceasefire Violation,High,31,UAV,8,Under Investigation
+INC00010,2025-03-11,Jammu & Kashmir,Alpha,Infiltration,Medium,29,Thermal Camera,32,Monitoring
+INC00011,2025-11-19,Jammu & Kashmir,Echo,Infiltration,Medium,33,Thermal Camera,13,Resolved
+INC00012,2025-12-18,Arunachal Pradesh,Echo,Drone Activity,High,29,Night Vision,29,Under Investigation
+INC00013,2025-05-19,Jammu & Kashmir,Charlie,Infiltration,High,33,Thermal Camera,22,Resolved
+INC00014,2024-02-15,Arunachal Pradesh,Delta,Smuggling,Medium,49,Radar,18,Under Investigation
+INC00015,2025-02-20,Punjab,Delta,Ceasefire Violation,Medium,14,Thermal Camera,32,Monitoring
+INC00016,2025-05-28,Gujarat,Alpha,Cyber Threat,Low,35,UAV,20,Under Investigation
+INC00017,2025-01-27,Jammu & Kashmir,Alpha,Infiltration,Medium,27,Thermal Camera,21,Monitoring
+INC00018,2025-03-16,Arunachal Pradesh,Delta,Ceasefire Violation,High,55,Night Vision,40,Monitoring
+INC00019,2024-03-26,Jammu & Kashmir,Charlie,Infiltration,Low,37,Thermal Camera,18,Resolved
+INC00020,2024-03-02,Jammu & Kashmir,Alpha,Ceasefire Violation,Low,56,Night Vision,11,Under Investigation
+INC00021,2024-12-27,Rajasthan,Alpha,Ceasefire Violation,Low,18,Drone,33,Under Investigation
+INC00022,2024-03-02,Gujarat,Bravo,Drone Activity,Medium,17,Drone,52,Under Investigation
+INC00023,2025-02-19,Punjab,Alpha,Drone Activity,Low,28,UAV,54,Under Investigation
+INC00024,2025-07-09,Jammu & Kashmir,Charlie,Infiltration,High,19,Night Vision,5,Under Investigation
+INC00025,2024-04-07,Punjab,Echo,Smuggling,Medium,52,Drone,35,Monitoring
+INC00026,2025-08-13,Punjab,Delta,Ceasefire Violation,Medium,26,Thermal Camera,52,Under Investigation
+INC00027,2025-02-15,Rajasthan,Bravo,Ceasefire Violation,High,55,UAV,51,Under Investigation
+INC00028,2025-03-02,Gujarat,Bravo,Drone Activity,Low,24,Night Vision,7,Monitoring
+INC00029,2024-09-18,Rajasthan,Echo,Infiltration,Medium,25,Radar,59,Monitoring
+INC00030,2025-08-23,Arunachal Pradesh,Alpha,Cyber Threat,Low,36,Radar,39,Resolved
+INC00031,2024-01-06,Jammu & Kashmir,Alpha,Smuggling,Medium,52,Thermal Camera,58,Under Investigation
+INC00032,2024-01-20,Rajasthan,Alpha,Ceasefire Violation,High,45,Thermal Camera,16,Resolved
+INC00033,2024-08-22,Arunachal Pradesh,Alpha,Ceasefire Violation,Medium,41,Drone,18,Resolved
+INC00034,2024-04-18,Jammu & Kashmir,Alpha,Smuggling,Medium,45,UAV,7,Resolved
+INC00035,2024-04-30,Arunachal Pradesh,Delta,Smuggling,Medium,55,Radar,43,Monitoring
+INC00036,2024-11-19,Jammu & Kashmir,Echo,Ceasefire Violation,Medium,21,Night Vision,32,Monitoring
+INC00037,2024-01-24,Punjab,Delta,Infiltration,Medium,15,UAV,13,Under Investigation
+INC00038,2025-05-16,Jammu & Kashmir,Delta,Infiltration,Medium,33,UAV,32,Under Investigation
+INC00039,2024-12-29,Rajasthan,Alpha,Smuggling,High,14,UAV,26,Under Investigation
+INC00040,2024-12-23,Jammu & Kashmir,Delta,Infiltration,High,14,UAV,47,Under Investigation
+INC00041,2025-05-02,Gujarat,Echo,Ceasefire Violation,Medium,22,Thermal Camera,49,Monitoring
+INC00042,2025-12-16,Punjab,Delta,Smuggling,Medium,21,Thermal Camera,40,Resolved
+INC00043,2024-11-10,Jammu & Kashmir,Bravo,Drone Activity,High,20,UAV,47,Monitoring
+INC00044,2024-05-19,Jammu & Kashmir,Bravo,Ceasefire Violation,Low,34,UAV,23,Monitoring
+INC00045,2024-04-21,Punjab,Alpha,Drone Activity,Medium,50,UAV,15,Monitoring
+INC00046,2025-02-07,Punjab,Charlie,Drone Activity,Medium,49,UAV,37,Under Investigation
+INC00047,2024-04-02,Jammu & Kashmir,Delta,Drone Activity,High,52,Drone,25,Resolved
+INC00048,2025-04-23,Punjab,Charlie,Infiltration,High,13,UAV,7,Resolved
+INC00049,2024-02-15,Jammu & Kashmir,Bravo,Infiltration,Medium,26,Drone,13,Resolved
+INC00050,2025-01-24,Jammu & Kashmir,Charlie,Infiltration,Low,10,Thermal Camera,16,Resolved
+INC00051,2024-10-18,Punjab,Delta,Ceasefire Violation,Medium,16,Thermal Camera,58,Monitoring
+INC00052,2025-03-14,Punjab,Delta,Ceasefire Violation,High,15,Night Vision,59,Resolved
+INC00053,2024-01-16,Rajasthan,Alpha,Smuggling,High,42,Drone,29,Monitoring
+INC00054,2024-10-23,Jammu & Kashmir,Alpha,Drone Activity,High,48,Night Vision,20,Resolved
+INC00055,2025-11-24,Jammu & Kashmir,Echo,Infiltration,High,13,Drone,45,Resolved
+INC00056,2024-10-15,Jammu & Kashmir,Delta,Smuggling,Medium,57,UAV,26,Monitoring
+INC00057,2025-03-06,Arunachal Pradesh,Charlie,Infiltration,High,51,Thermal Camera,38,Monitoring
+INC00058,2025-08-01,Jammu & Kashmir,Bravo,Smuggling,High,11,UAV,15,Resolved
+INC00059,2024-08-07,Punjab,Bravo,Ceasefire Violation,Medium,54,Drone,28,Monitoring
+INC00060,2024-06-06,Arunachal Pradesh,Alpha,Smuggling,Low,11,Thermal Camera,55,Monitoring
+INC00061,2025-07-02,Arunachal Pradesh,Bravo,Drone Activity,Medium,53,Radar,6,Under Investigation
+INC00062,2025-05-09,Gujarat,Delta,Smuggling,High,35,Night Vision,41,Resolved
+INC00063,2024-04-03,Punjab,Delta,Cyber Threat,Medium,20,Radar,22,Resolved
+INC00064,2024-07-10,Punjab,Echo,Ceasefire Violation,Medium,17,Night Vision,29,Under Investigation
+INC00065,2025-07-13,Arunachal Pradesh,Delta,Drone Activity,Medium,59,Radar,48,Monitoring
+INC00066,2024-04-13,Punjab,Alpha,Ceasefire Violation,Low,39,Radar,7,Under Investigation
+INC00067,2025-08-27,Arunachal Pradesh,Bravo,Drone Activity,Low,37,UAV,17,Resolved
+INC00068,2025-07-17,Arunachal Pradesh,Bravo,Smuggling,Low,29,Night Vision,8,Under Investigation
+INC00069,2025-01-02,Punjab,Echo,Drone Activity,Medium,42,Radar,58,Resolved
+INC00070,2024-08-10,Gujarat,Alpha,Smuggling,Medium,37,Radar,35,Monitoring
+INC00071,2025-05-27,Jammu & Kashmir,Charlie,Smuggling,High,20,Drone,18,Resolved
+INC00072,2024-06-12,Jammu & Kashmir,Echo,Smuggling,Medium,22,Thermal Camera,26,Monitoring
+INC00073,2025-07-17,Gujarat,Alpha,Drone Activity,Low,36,Thermal Camera,45,Under Investigation
+INC00074,2025-09-01,Jammu & Kashmir,Charlie,Ceasefire Violation,High,28,UAV,41,Monitoring
+INC00075,2025-05-12,Punjab,Charlie,Ceasefire Violation,High,22,Night Vision,41,Monitoring
+INC00076,2025-10-20,Jammu & Kashmir,Charlie,Smuggling,High,13,UAV,52,Monitoring
+INC00077,2024-06-17,Jammu & Kashmir,Delta,Smuggling,Medium,53,Drone,46,Resolved
+INC00078,2024-10-04,Arunachal Pradesh,Echo,Infiltration,Low,18,Radar,14,Monitoring
+INC00079,2025-12-27,Gujarat,Echo,Infiltration,Medium,35,Radar,39,Resolved
+INC00080,2024-08-10,Jammu & Kashmir,Alpha,Ceasefire Violation,Medium,53,Radar,52,Monitoring
+INC00081,2025-03-04,Rajasthan,Echo,Infiltration,Low,37,Night Vision,60,Monitoring
+INC00082,2025-11-11,Rajasthan,Delta,Infiltration,High,29,Radar,12,Under Investigation
+INC00083,2025-09-08,Punjab,Echo,Infiltration,High,55,Night Vision,37,Under Investigation
+INC00084,2024-10-24,Jammu & Kashmir,Bravo,Smuggling,Medium,41,UAV,16,Under Investigation
+INC00085,2025-08-12,Jammu & Kashmir,Echo,Smuggling,High,51,Drone,54,Monitoring
+INC00086,2024-04-25,Punjab,Alpha,Infiltration,Medium,45,Night Vision,13,Resolved
+INC00087,2024-09-19,Jammu & Kashmir,Alpha,Drone Activity,High,44,UAV,13,Under Investigation
+INC00088,2025-10-17,Arunachal Pradesh,Echo,Drone Activity,High,30,Drone,18,Monitoring
+INC00089,2024-01-07,Jammu & Kashmir,Bravo,Infiltration,Medium,49,Drone,18,Monitoring
+INC00090,2024-09-12,Gujarat,Bravo,Drone Activity,Low,24,Radar,16,Resolved
+INC00091,2025-10-26,Jammu & Kashmir,Delta,Infiltration,Medium,31,Radar,43,Resolved
+INC00092,2025-02-12,Gujarat,Charlie,Drone Activity,High,46,Thermal Camera,23,Under Investigation
+INC00093,2025-09-21,Gujarat,Echo,Drone Activity,Medium,52,Thermal Camera,50,Monitoring
+INC00094,2024-12-23,Rajasthan,Echo,Smuggling,High,59,Night Vision,18,Under Investigation
+INC00095,2025-12-13,Punjab,Delta,Smuggling,High,58,Thermal Camera,6,Monitoring
+INC00096,2025-05-22,Arunachal Pradesh,Delta,Infiltration,Medium,43,Night Vision,42,Under Investigation
+INC00097,2024-03-01,Arunachal Pradesh,Delta,Ceasefire Violation,Medium,27,Radar,19,Monitoring
+INC00098,2024-12-25,Jammu & Kashmir,Bravo,Cyber Threat,Medium,58,Drone,49,Resolved
+INC00099,2024-05-04,Jammu & Kashmir,Delta,Infiltration,Medium,47,Thermal Camera,21,Resolved
+INC00100,2024-12-04,Arunachal Pradesh,Charlie,Drone Activity,Medium,49,Night Vision,47,Resolved
+INC00101,2025-03-06,Punjab,Delta,Ceasefire Violation,Medium,18,Night Vision,19,Resolved
+INC00102,2025-05-28,Jammu & Kashmir,Charlie,Infiltration,Medium,39,Thermal Camera,22,Monitoring
+INC00103,2025-07-20,Rajasthan,Delta,Infiltration,High,49,Radar,15,Monitoring
+INC00104,2025-03-29,Rajasthan,Charlie,Smuggling,High,55,UAV,19,Under Investigation
+INC00105,2024-03-03,Gujarat,Delta,Smuggling,High,48,Thermal Camera,47,Monitoring
+INC00106,2024-07-06,Arunachal Pradesh,Delta,Infiltration,Medium,40,UAV,37,Resolved
+INC00107,2024-03-25,Gujarat,Charlie,Cyber Threat,Medium,35,Drone,57,Under Investigation
+INC00108,2024-05-07,Jammu & Kashmir,Alpha,Infiltration,High,24,Radar,53,Monitoring
+INC00109,2025-07-16,Jammu & Kashmir,Delta,Infiltration,High,57,Radar,18,Resolved
+INC00110,2025-11-25,Arunachal Pradesh,Charlie,Infiltration,High,53,UAV,48,Monitoring
+INC00111,2024-05-14,Arunachal Pradesh,Alpha,Drone Activity,High,14,Drone,6,Resolved
+INC00112,2025-03-31,Jammu & Kashmir,Alpha,Infiltration,High,25,Thermal Camera,53,Resolved
+INC00113,2025-08-21,Jammu & Kashmir,Bravo,Infiltration,Low,24,Drone,38,Under Investigation
+INC00114,2024-03-19,Jammu & Kashmir,Delta,Infiltration,Medium,42,Drone,36,Resolved
+INC00115,2024-03-04,Jammu & Kashmir,Echo,Infiltration,High,15,UAV,27,Monitoring
+INC00116,2025-06-06,Punjab,Bravo,Infiltration,Medium,27,Night Vision,22,Under Investigation
+INC00117,2025-06-07,Jammu & Kashmir,Charlie,Drone Activity,Low,17,Thermal Camera,34,Monitoring
+INC00118,2024-11-27,Jammu & Kashmir,Echo,Infiltration,Medium,58,Thermal Camera,35,Resolved
+INC00119,2024-08-25,Jammu & Kashmir,Charlie,Drone Activity,High,58,UAV,45,Resolved
+INC00120,2024-04-04,Gujarat,Alpha,Drone Activity,Low,28,Drone,25,Under Investigation
+INC00121,2025-09-24,Punjab,Bravo,Infiltration,High,47,Radar,32,Under Investigation
+INC00122,2024-12-30,Gujarat,Delta,Drone Activity,High,43,Night Vision,36,Monitoring
+INC00123,2024-05-24,Jammu & Kashmir,Charlie,Infiltration,High,26,Drone,45,Resolved
+INC00124,2025-08-04,Punjab,Alpha,Drone Activity,Low,26,Radar,52,Under Investigation
+INC00125,2024-03-18,Rajasthan,Bravo,Infiltration,High,48,Radar,27,Monitoring
+INC00126,2024-02-03,Jammu & Kashmir,Charlie,Ceasefire Violation,Low,33,Drone,12,Resolved
+INC00127,2024-06-23,Jammu & Kashmir,Alpha,Infiltration,High,18,UAV,33,Under Investigation
+INC00128,2024-07-05,Jammu & Kashmir,Bravo,Drone Activity,Medium,43,Drone,32,Monitoring
+INC00129,2025-08-17,Jammu & Kashmir,Alpha,Ceasefire Violation,Low,16,Radar,45,Resolved
+INC00130,2024-05-23,Jammu & Kashmir,Alpha,Infiltration,Medium,25,Night Vision,26,Monitoring
+INC00131,2025-12-24,Jammu & Kashmir,Alpha,Infiltration,High,10,Thermal Camera,30,Monitoring
+INC00132,2024-05-10,Arunachal Pradesh,Bravo,Ceasefire Violation,Medium,40,UAV,30,Under Investigation
+INC00133,2024-06-11,Jammu & Kashmir,Alpha,Drone Activity,Medium,60,UAV,41,Resolved
+INC00134,2024-10-28,Jammu & Kashmir,Echo,Drone Activity,Medium,52,Night Vision,36,Resolved
+INC00135,2025-08-01,Rajasthan,Delta,Drone Activity,Low,52,UAV,40,Monitoring
+INC00136,2025-02-25,Rajasthan,Alpha,Infiltration,High,46,Drone,54,Under Investigation
+INC00137,2025-05-07,Jammu & Kashmir,Echo,Infiltration,High,53,Drone,46,Resolved
+INC00138,2024-12-20,Rajasthan,Bravo,Infiltration,High,20,Night Vision,58,Monitoring
+INC00139,2025-10-22,Arunachal Pradesh,Alpha,Smuggling,Medium,51,Thermal Camera,44,Monitoring
+INC00140,2025-08-18,Rajasthan,Echo,Drone Activity,Medium,51,Thermal Camera,35,Under Investigation
+INC00141,2024-02-11,Gujarat,Alpha,Infiltration,Low,30,Radar,42,Monitoring
+INC00142,2025-05-21,Rajasthan,Echo,Drone Activity,Medium,50,UAV,24,Resolved
+INC00143,2024-03-08,Arunachal Pradesh,Echo,Infiltration,High,41,Night Vision,33,Monitoring
+INC00144,2025-12-24,Punjab,Charlie,Infiltration,Medium,32,Thermal Camera,43,Under Investigation
+INC00145,2024-08-17,Jammu & Kashmir,Bravo,Smuggling,Medium,55,Thermal Camera,19,Resolved
+INC00146,2025-10-14,Arunachal Pradesh,Bravo,Ceasefire Violation,Medium,29,UAV,7,Monitoring
+INC00147,2025-08-05,Punjab,Charlie,Ceasefire Violation,Medium,33,Radar,38,Under Investigation
+INC00148,2025-10-13,Rajasthan,Charlie,Infiltration,High,46,Drone,11,Under Investigation
+INC00149,2025-07-13,Jammu & Kashmir,Charlie,Infiltration,High,22,Drone,31,Resolved
+INC00150,2024-08-19,Gujarat,Alpha,Drone Activity,High,54,Drone,48,Resolved
+INC00151,2024-09-05,Punjab,Alpha,Infiltration,High,58,Night Vision,9,Resolved
+INC00152,2025-05-15,Arunachal Pradesh,Echo,Smuggling,High,47,UAV,7,Under Investigation
+INC00153,2024-09-22,Gujarat,Alpha,Ceasefire Violation,High,12,Night Vision,20,Resolved
+INC00154,2025-03-19,Jammu & Kashmir,Bravo,Infiltration,Medium,13,Thermal Camera,41,Monitoring
+INC00155,2025-01-25,Gujarat,Echo,Infiltration,Medium,57,Night Vision,5,Resolved
+INC00156,2024-12-11,Gujarat,Charlie,Infiltration,High,58,Drone,34,Under Investigation
+INC00157,2025-11-15,Punjab,Alpha,Cyber Threat,Medium,14,Drone,15,Resolved
+INC00158,2025-05-28,Punjab,Bravo,Drone Activity,High,47,Thermal Camera,37,Resolved
+INC00159,2025-02-19,Punjab,Bravo,Infiltration,High,54,Thermal Camera,37,Resolved
+INC00160,2025-06-21,Punjab,Bravo,Ceasefire Violation,High,40,Night Vision,35,Under Investigation
+INC00161,2025-10-26,Punjab,Echo,Ceasefire Violation,Medium,40,Radar,54,Monitoring
+INC00162,2025-03-26,Arunachal Pradesh,Alpha,Smuggling,Low,21,Drone,22,Monitoring
+INC00163,2024-11-12,Jammu & Kashmir,Delta,Drone Activity,Low,37,Radar,11,Resolved
+INC00164,2024-12-27,Jammu & Kashmir,Alpha,Cyber Threat,High,26,UAV,13,Resolved
+INC00165,2024-04-14,Jammu & Kashmir,Bravo,Drone Activity,High,54,Drone,28,Resolved
+INC00166,2025-03-20,Gujarat,Alpha,Infiltration,Medium,37,Drone,59,Under Investigation
+INC00167,2025-03-04,Punjab,Bravo,Infiltration,High,56,UAV,37,Under Investigation
+INC00168,2025-07-09,Punjab,Alpha,Drone Activity,High,44,Thermal Camera,15,Under Investigation
+INC00169,2024-08-07,Gujarat,Bravo,Drone Activity,High,53,UAV,54,Resolved
+INC00170,2025-05-22,Jammu & Kashmir,Alpha,Infiltration,Low,25,Drone,7,Under Investigation
+INC00171,2024-04-29,Arunachal Pradesh,Charlie,Ceasefire Violation,High,54,UAV,18,Resolved
+INC00172,2024-08-04,Rajasthan,Delta,Ceasefire Violation,Medium,57,Drone,16,Under Investigation
+INC00173,2024-06-21,Jammu & Kashmir,Alpha,Drone Activity,High,46,Thermal Camera,23,Monitoring
+INC00174,2025-06-13,Jammu & Kashmir,Charlie,Smuggling,High,11,Thermal Camera,34,Under Investigation
+INC00175,2025-12-04,Rajasthan,Charlie,Infiltration,High,18,Thermal Camera,23,Resolved
+INC00176,2024-11-09,Jammu & Kashmir,Bravo,Smuggling,Low,42,Night Vision,31,Under Investigation
+INC00177,2025-06-15,Jammu & Kashmir,Echo,Ceasefire Violation,Medium,28,Thermal Camera,19,Resolved
+INC00178,2024-10-20,Jammu & Kashmir,Bravo,Infiltration,High,32,Radar,16,Monitoring
+INC00179,2024-06-29,Arunachal Pradesh,Alpha,Infiltration,High,48,Drone,43,Under Investigation
+INC00180,2025-04-27,Gujarat,Echo,Drone Activity,Low,28,Drone,13,Monitoring
+INC00181,2024-07-15,Jammu & Kashmir,Echo,Cyber Threat,Medium,15,UAV,18,Monitoring
+INC00182,2024-03-27,Rajasthan,Charlie,Ceasefire Violation,Low,26,Thermal Camera,5,Monitoring
+INC00183,2024-07-22,Jammu & Kashmir,Bravo,Drone Activity,High,23,Radar,14,Under Investigation
+INC00184,2025-07-08,Rajasthan,Alpha,Infiltration,Low,22,Thermal Camera,11,Under Investigation
+INC00185,2025-05-06,Jammu & Kashmir,Alpha,Drone Activity,Medium,56,Drone,34,Monitoring
+INC00186,2024-08-10,Jammu & Kashmir,Delta,Infiltration,High,49,Thermal Camera,5,Under Investigation
+INC00187,2025-04-03,Jammu & Kashmir,Charlie,Smuggling,Low,55,Night Vision,41,Resolved
+INC00188,2024-06-12,Gujarat,Charlie,Drone Activity,High,12,Night Vision,51,Monitoring
+INC00189,2025-12-21,Gujarat,Alpha,Drone Activity,High,20,UAV,42,Under Investigation
+INC00190,2025-12-03,Jammu & Kashmir,Charlie,Infiltration,Medium,37,Thermal Camera,40,Monitoring
+INC00191,2025-03-03,Jammu & Kashmir,Bravo,Infiltration,High,13,UAV,18,Monitoring
+INC00192,2024-05-25,Gujarat,Alpha,Smuggling,Medium,27,Night Vision,48,Monitoring
+INC00193,2024-11-26,Arunachal Pradesh,Bravo,Ceasefire Violation,Low,46,Night Vision,43,Monitoring
+INC00194,2025-09-04,Arunachal Pradesh,Echo,Ceasefire Violation,High,39,Radar,39,Under Investigation
+INC00195,2025-01-26,Rajasthan,Echo,Ceasefire Violation,Medium,18,Radar,32,Under Investigation
+INC00196,2025-01-13,Rajasthan,Charlie,Ceasefire Violation,High,37,Thermal Camera,47,Resolved
+INC00197,2024-09-25,Jammu & Kashmir,Delta,Infiltration,High,58,Drone,47,Monitoring
+INC00198,2024-08-31,Jammu & Kashmir,Echo,Cyber Threat,Medium,32,Drone,42,Monitoring
+INC00199,2025-03-21,Jammu & Kashmir,Alpha,Infiltration,Medium,22,Thermal Camera,42,Resolved
+INC00200,2025-05-24,Jammu & Kashmir,Alpha,Ceasefire Violation,Low,14,UAV,32,Monitoring
+INC00201,2024-02-01,Punjab,Echo,Cyber Threat,Medium,23,Night Vision,31,Monitoring
+INC00202,2024-05-05,Jammu & Kashmir,Delta,Smuggling,High,24,Drone,55,Resolved
+INC00203,2024-08-16,Arunachal Pradesh,Bravo,Drone Activity,High,17,UAV,57,Resolved
+INC00204,2025-12-23,Jammu & Kashmir,Echo,Smuggling,High,28,Radar,53,Resolved
+INC00205,2024-11-25,Punjab,Echo,Infiltration,Low,19,Night Vision,30,Monitoring
+INC00206,2024-04-17,Arunachal Pradesh,Echo,Infiltration,High,37,Radar,19,Resolved
+INC00207,2024-11-09,Rajasthan,Echo,Ceasefire Violation,Medium,46,Night Vision,7,Monitoring
+INC00208,2024-09-27,Gujarat,Alpha,Ceasefire Violation,Medium,31,UAV,60,Under Investigation
+INC00209,2025-03-31,Jammu & Kashmir,Echo,Cyber Threat,High,28,Night Vision,38,Under Investigation
+INC00210,2024-02-27,Rajasthan,Echo,Smuggling,High,48,Thermal Camera,30,Resolved
+INC00211,2024-05-11,Rajasthan,Alpha,Drone Activity,Medium,42,Thermal Camera,28,Under Investigation
+INC00212,2024-02-19,Arunachal Pradesh,Charlie,Infiltration,Medium,13,Thermal Camera,45,Resolved
+INC00213,2024-12-17,Jammu & Kashmir,Bravo,Cyber Threat,Medium,59,UAV,13,Monitoring
+INC00214,2024-12-26,Punjab,Alpha,Ceasefire Violation,Medium,50,Radar,19,Resolved
+INC00215,2024-06-05,Gujarat,Alpha,Drone Activity,Low,38,Thermal Camera,10,Under Investigation
+INC00216,2025-11-04,Punjab,Bravo,Infiltration,Medium,23,Night Vision,37,Resolved
+INC00217,2025-10-05,Punjab,Echo,Infiltration,High,12,Drone,47,Monitoring
+INC00218,2025-07-27,Punjab,Delta,Infiltration,High,35,Radar,17,Monitoring
+INC00219,2025-09-11,Gujarat,Charlie,Ceasefire Violation,Medium,13,Thermal Camera,12,Under Investigation
+INC00220,2025-12-11,Jammu & Kashmir,Echo,Infiltration,High,37,Thermal Camera,34,Resolved
+INC00221,2025-01-26,Gujarat,Bravo,Drone Activity,Medium,13,UAV,17,Under Investigation
+INC00222,2025-10-20,Jammu & Kashmir,Alpha,Infiltration,High,14,Radar,23,Monitoring
+INC00223,2025-02-05,Punjab,Charlie,Infiltration,High,52,Drone,21,Monitoring
+INC00224,2025-02-16,Gujarat,Alpha,Drone Activity,Medium,15,UAV,15,Monitoring
+INC00225,2024-06-27,Rajasthan,Alpha,Ceasefire Violation,High,38,Drone,47,Under Investigation
+INC00226,2024-08-05,Arunachal Pradesh,Alpha,Drone Activity,Medium,28,Thermal Camera,57,Under Investigation
+INC00227,2025-07-10,Jammu & Kashmir,Delta,Smuggling,Low,15,Night Vision,46,Under Investigation
+INC00228,2025-11-16,Punjab,Echo,Infiltration,Low,19,Thermal Camera,53,Monitoring
+INC00229,2024-10-22,Jammu & Kashmir,Delta,Infiltration,High,48,UAV,29,Monitoring
+INC00230,2024-02-21,Jammu & Kashmir,Alpha,Ceasefire Violation,Medium,23,Drone,50,Under Investigation
+INC00231,2024-03-29,Gujarat,Alpha,Ceasefire Violation,Medium,34,Night Vision,29,Resolved
+INC00232,2025-01-05,Gujarat,Alpha,Infiltration,Low,22,UAV,58,Resolved
+INC00233,2025-08-23,Jammu & Kashmir,Alpha,Infiltration,Low,45,Night Vision,26,Under Investigation
+INC00234,2025-09-26,Rajasthan,Delta,Ceasefire Violation,Medium,11,Night Vision,5,Resolved
+INC00235,2024-03-10,Punjab,Delta,Ceasefire Violation,High,17,Radar,47,Monitoring
+INC00236,2024-10-11,Punjab,Delta,Smuggling,Low,17,Radar,53,Monitoring
+INC00237,2025-01-19,Punjab,Alpha,Drone Activity,High,10,Thermal Camera,13,Monitoring
+INC00238,2025-04-09,Arunachal Pradesh,Delta,Smuggling,Medium,29,Radar,5,Resolved
+INC00239,2024-06-19,Jammu & Kashmir,Alpha,Drone Activity,Medium,30,Radar,48,Under Investigation
+INC00240,2024-06-15,Punjab,Bravo,Drone Activity,Medium,16,Night Vision,12,Under Investigation
+INC00241,2025-02-22,Rajasthan,Bravo,Infiltration,High,37,UAV,48,Resolved
+INC00242,2024-06-20,Arunachal Pradesh,Charlie,Smuggling,Medium,32,Radar,56,Resolved
+INC00243,2025-04-20,Arunachal Pradesh,Echo,Drone Activity,High,49,Drone,49,Resolved
+INC00244,2025-11-16,Gujarat,Charlie,Infiltration,Medium,51,Thermal Camera,6,Monitoring
+INC00245,2025-09-13,Gujarat,Echo,Ceasefire Violation,Medium,50,UAV,7,Under Investigation
+INC00246,2025-02-27,Gujarat,Alpha,Drone Activity,Medium,33,Drone,45,Under Investigation
+INC00247,2024-08-01,Jammu & Kashmir,Echo,Drone Activity,Low,36,UAV,43,Monitoring
+INC00248,2024-03-16,Jammu & Kashmir,Bravo,Drone Activity,Medium,33,Drone,44,Monitoring
+INC00249,2024-08-06,Jammu & Kashmir,Alpha,Infiltration,Medium,50,Radar,56,Under Investigation
+INC00250,2025-05-01,Jammu & Kashmir,Charlie,Infiltration,Low,12,UAV,28,Under Investigation
+INC00251,2025-07-07,Gujarat,Alpha,Smuggling,High,50,Thermal Camera,56,Monitoring
+INC00252,2025-03-11,Punjab,Alpha,Drone Activity,Medium,20,UAV,56,Resolved
+INC00253,2025-10-26,Rajasthan,Delta,Ceasefire Violation,Medium,36,UAV,26,Under Investigation
+INC00254,2024-11-26,Rajasthan,Bravo,Infiltration,Low,53,Thermal Camera,51,Monitoring
+INC00255,2024-04-22,Jammu & Kashmir,Charlie,Ceasefire Violation,High,12,Radar,35,Monitoring
+INC00256,2025-06-16,Punjab,Charlie,Drone Activity,High,40,Thermal Camera,42,Resolved
+INC00257,2024-10-18,Jammu & Kashmir,Delta,Ceasefire Violation,High,58,UAV,48,Monitoring
+INC00258,2025-10-01,Gujarat,Delta,Drone Activity,Medium,55,Thermal Camera,44,Under Investigation
+INC00259,2024-04-28,Gujarat,Charlie,Infiltration,High,21,Radar,59,Resolved
+INC00260,2025-03-19,Punjab,Echo,Ceasefire Violation,Medium,42,Thermal Camera,6,Monitoring
+INC00261,2025-12-29,Punjab,Bravo,Infiltration,High,46,Radar,19,Resolved
+INC00262,2024-09-27,Jammu & Kashmir,Echo,Infiltration,Low,38,Thermal Camera,40,Monitoring
+INC00263,2025-11-07,Jammu & Kashmir,Delta,Infiltration,Medium,58,Night Vision,25,Resolved
+INC00264,2024-03-08,Jammu & Kashmir,Alpha,Infiltration,Low,14,Drone,58,Monitoring
+INC00265,2024-06-27,Jammu & Kashmir,Delta,Infiltration,Low,55,Drone,6,Under Investigation
+INC00266,2025-01-25,Punjab,Charlie,Smuggling,Medium,39,Drone,30,Monitoring
+INC00267,2024-10-07,Jammu & Kashmir,Echo,Drone Activity,Medium,56,Drone,59,Resolved
+INC00268,2024-03-04,Jammu & Kashmir,Alpha,Smuggling,High,35,UAV,24,Resolved
+INC00269,2025-12-31,Jammu & Kashmir,Echo,Drone Activity,High,22,Night Vision,30,Resolved
+INC00270,2024-05-01,Punjab,Charlie,Drone Activity,High,26,Thermal Camera,15,Resolved
+INC00271,2025-02-17,Punjab,Bravo,Infiltration,High,10,UAV,24,Resolved
+INC00272,2025-04-26,Rajasthan,Alpha,Smuggling,Medium,52,UAV,32,Under Investigation
+INC00273,2025-12-03,Arunachal Pradesh,Bravo,Cyber Threat,Low,59,Thermal Camera,33,Resolved
+INC00274,2025-12-01,Jammu & Kashmir,Charlie,Drone Activity,High,59,UAV,19,Under Investigation
+INC00275,2025-12-16,Punjab,Bravo,Infiltration,Medium,43,Drone,49,Monitoring
+INC00276,2024-09-09,Jammu & Kashmir,Bravo,Ceasefire Violation,Medium,60,Thermal Camera,50,Under Investigation
+INC00277,2024-04-19,Jammu & Kashmir,Bravo,Drone Activity,Medium,53,Thermal Camera,26,Under Investigation
+INC00278,2024-04-17,Jammu & Kashmir,Echo,Drone Activity,Medium,52,Night Vision,34,Monitoring
+INC00279,2025-07-03,Jammu & Kashmir,Delta,Drone Activity,Medium,44,Drone,27,Under Investigation
+INC00280,2025-09-08,Jammu & Kashmir,Charlie,Drone Activity,High,52,Radar,30,Under Investigation
+INC00281,2025-01-15,Punjab,Alpha,Infiltration,Medium,13,UAV,22,Resolved
+INC00282,2025-10-20,Jammu & Kashmir,Bravo,Ceasefire Violation,Low,36,Thermal Camera,9,Under Investigation
+INC00283,2025-01-10,Gujarat,Alpha,Ceasefire Violation,Medium,16,UAV,44,Under Investigation
+INC00284,2024-10-23,Jammu & Kashmir,Delta,Infiltration,High,50,UAV,41,Monitoring
+INC00285,2025-04-09,Jammu & Kashmir,Alpha,Drone Activity,Medium,11,Drone,9,Monitoring
+INC00286,2024-01-19,Jammu & Kashmir,Bravo,Infiltration,Medium,38,Drone,41,Resolved
+INC00287,2024-02-03,Arunachal Pradesh,Bravo,Drone Activity,Medium,23,UAV,24,Under Investigation
+INC00288,2024-02-21,Rajasthan,Alpha,Infiltration,Medium,12,Drone,21,Resolved
+INC00289,2025-05-20,Rajasthan,Delta,Cyber Threat,High,37,Night Vision,56,Under Investigation
+INC00290,2024-11-08,Punjab,Charlie,Drone Activity,High,23,Drone,39,Resolved
+INC00291,2024-04-24,Gujarat,Echo,Drone Activity,Medium,20,Night Vision,29,Resolved
+INC00292,2024-09-21,Jammu & Kashmir,Delta,Ceasefire Violation,Medium,27,Drone,53,Monitoring
+INC00293,2024-12-14,Rajasthan,Alpha,Ceasefire Violation,Medium,34,Drone,45,Resolved
+INC00294,2025-06-27,Punjab,Echo,Smuggling,Low,33,UAV,16,Under Investigation
+INC00295,2025-06-13,Rajasthan,Alpha,Drone Activity,Medium,27,Drone,12,Under Investigation
+INC00296,2025-11-04,Jammu & Kashmir,Echo,Drone Activity,Medium,27,Radar,20,Resolved
+INC00297,2025-05-18,Gujarat,Alpha,Drone Activity,High,39,Night Vision,23,Monitoring
+INC00298,2024-01-01,Jammu & Kashmir,Bravo,Infiltration,High,39,Radar,27,Under Investigation
+INC00299,2024-08-01,Rajasthan,Charlie,Infiltration,High,37,UAV,31,Resolved
+INC00300,2024-04-16,Jammu & Kashmir,Delta,Drone Activity,Low,53,Thermal Camera,48,Resolved
+INC00301,2025-07-24,Gujarat,Bravo,Ceasefire Violation,High,23,Radar,37,Resolved
+INC00302,2025-03-14,Rajasthan,Alpha,Drone Activity,Medium,45,Thermal Camera,11,Monitoring
+INC00303,2025-04-12,Jammu & Kashmir,Bravo,Infiltration,Medium,47,UAV,47,Monitoring
+INC00304,2024-03-10,Jammu & Kashmir,Alpha,Infiltration,High,44,Thermal Camera,29,Monitoring
+INC00305,2024-09-18,Punjab,Alpha,Drone Activity,Medium,60,UAV,50,Under Investigation
+INC00306,2024-02-14,Jammu & Kashmir,Bravo,Drone Activity,Medium,47,Night Vision,26,Under Investigation
+INC00307,2024-11-04,Punjab,Charlie,Infiltration,High,38,Night Vision,56,Resolved
+INC00308,2024-06-08,Rajasthan,Delta,Drone Activity,High,43,UAV,32,Resolved
+INC00309,2025-06-06,Jammu & Kashmir,Alpha,Infiltration,Medium,37,Drone,12,Resolved
+INC00310,2025-05-05,Jammu & Kashmir,Alpha,Infiltration,High,34,Night Vision,33,Monitoring
+INC00311,2025-08-20,Jammu & Kashmir,Delta,Infiltration,High,23,Drone,55,Monitoring
+INC00312,2025-02-09,Jammu & Kashmir,Bravo,Smuggling,High,26,Thermal Camera,14,Resolved
+INC00313,2024-08-14,Punjab,Bravo,Drone Activity,Low,13,Radar,43,Monitoring
+INC00314,2025-12-18,Gujarat,Echo,Drone Activity,High,38,Drone,26,Monitoring
+INC00315,2025-09-30,Gujarat,Bravo,Drone Activity,High,44,Thermal Camera,40,Resolved
+INC00316,2024-11-25,Punjab,Bravo,Drone Activity,Medium,39,Radar,28,Monitoring
+INC00317,2025-09-07,Rajasthan,Delta,Infiltration,Medium,60,UAV,22,Resolved
+INC00318,2024-10-26,Rajasthan,Charlie,Infiltration,High,44,Radar,55,Resolved
+INC00319,2024-09-06,Rajasthan,Bravo,Ceasefire Violation,Medium,58,Radar,58,Monitoring
+INC00320,2024-02-17,Jammu & Kashmir,Alpha,Infiltration,Medium,26,Drone,49,Resolved
+INC00321,2025-04-12,Rajasthan,Charlie,Cyber Threat,High,56,Thermal Camera,41,Resolved
+INC00322,2024-02-04,Punjab,Bravo,Infiltration,High,23,Radar,51,Under Investigation
+INC00323,2025-01-14,Rajasthan,Bravo,Smuggling,Low,20,Night Vision,56,Resolved
+INC00324,2025-11-23,Jammu & Kashmir,Delta,Drone Activity,Medium,13,Radar,48,Monitoring
+INC00325,2024-01-22,Punjab,Echo,Ceasefire Violation,Medium,58,Drone,51,Monitoring
+INC00326,2024-01-08,Rajasthan,Echo,Smuggling,Medium,30,Thermal Camera,50,Resolved
+INC00327,2025-05-04,Arunachal Pradesh,Delta,Infiltration,Medium,60,UAV,22,Under Investigation
+INC00328,2025-06-12,Punjab,Alpha,Infiltration,High,34,Night Vision,27,Monitoring
+INC00329,2025-12-20,Punjab,Bravo,Infiltration,High,14,UAV,45,Resolved
+INC00330,2025-06-12,Punjab,Delta,Infiltration,Medium,36,UAV,54,Monitoring
+INC00331,2024-12-14,Jammu & Kashmir,Alpha,Infiltration,Low,39,Radar,48,Resolved
+INC00332,2025-08-19,Arunachal Pradesh,Charlie,Drone Activity,High,43,UAV,29,Under Investigation
+INC00333,2024-12-18,Gujarat,Echo,Drone Activity,High,50,UAV,49,Under Investigation
+INC00334,2024-01-10,Punjab,Alpha,Drone Activity,Medium,45,Drone,53,Under Investigation
+INC00335,2025-12-30,Jammu & Kashmir,Bravo,Drone Activity,Medium,14,Night Vision,24,Resolved
+INC00336,2024-02-18,Gujarat,Alpha,Smuggling,Low,17,Thermal Camera,38,Under Investigation
+INC00337,2025-02-27,Rajasthan,Echo,Infiltration,Low,29,Radar,40,Resolved
+INC00338,2024-10-10,Rajasthan,Delta,Drone Activity,High,23,Night Vision,21,Monitoring
+INC00339,2024-04-05,Rajasthan,Delta,Ceasefire Violation,High,33,Radar,49,Under Investigation
+INC00340,2025-10-15,Jammu & Kashmir,Bravo,Infiltration,Low,10,Night Vision,56,Monitoring
+INC00341,2024-11-02,Jammu & Kashmir,Charlie,Drone Activity,Low,40,Thermal Camera,52,Resolved
+INC00342,2024-12-03,Punjab,Delta,Infiltration,Medium,12,Drone,15,Under Investigation
+INC00343,2024-05-18,Jammu & Kashmir,Echo,Infiltration,Medium,17,Drone,51,Resolved
+INC00344,2025-10-20,Jammu & Kashmir,Echo,Drone Activity,Medium,56,UAV,24,Resolved
+INC00345,2025-07-10,Jammu & Kashmir,Alpha,Ceasefire Violation,Medium,40,Thermal Camera,41,Under Investigation
+INC00346,2025-08-06,Punjab,Delta,Infiltration,High,40,Radar,15,Monitoring
+INC00347,2024-07-17,Jammu & Kashmir,Delta,Infiltration,Medium,30,Thermal Camera,54,Under Investigation
+INC00348,2025-06-22,Jammu & Kashmir,Bravo,Drone Activity,Low,25,Thermal Camera,47,Under Investigation
+INC00349,2025-10-24,Rajasthan,Delta,Drone Activity,High,57,Night Vision,34,Monitoring
+INC00350,2024-05-29,Arunachal Pradesh,Charlie,Ceasefire Violation,Low,29,Drone,10,Monitoring
+INC00351,2024-09-06,Rajasthan,Delta,Drone Activity,Low,14,Night Vision,11,Resolved
+INC00352,2025-11-01,Jammu & Kashmir,Bravo,Infiltration,High,46,UAV,8,Under Investigation
+INC00353,2024-11-19,Rajasthan,Charlie,Smuggling,High,34,UAV,29,Monitoring
+INC00354,2025-09-30,Arunachal Pradesh,Charlie,Ceasefire Violation,High,19,Drone,56,Under Investigation
+INC00355,2025-09-03,Jammu & Kashmir,Charlie,Smuggling,Medium,53,Drone,17,Monitoring
+INC00356,2024-04-25,Jammu & Kashmir,Delta,Drone Activity,High,36,Radar,34,Under Investigation
+INC00357,2024-01-15,Punjab,Echo,Ceasefire Violation,High,31,Night Vision,49,Monitoring
+INC00358,2024-07-26,Jammu & Kashmir,Charlie,Ceasefire Violation,Medium,41,Thermal Camera,10,Resolved
+INC00359,2024-06-20,Rajasthan,Echo,Smuggling,Medium,32,Radar,54,Under Investigation
+INC00360,2024-01-04,Punjab,Bravo,Ceasefire Violation,High,23,Night Vision,33,Under Investigation
+INC00361,2024-12-14,Arunachal Pradesh,Charlie,Infiltration,Medium,11,Radar,35,Monitoring
+INC00362,2024-02-21,Rajasthan,Bravo,Smuggling,Medium,51,Drone,56,Monitoring
+INC00363,2025-06-18,Jammu & Kashmir,Charlie,Infiltration,High,53,Thermal Camera,42,Under Investigation
+INC00364,2024-05-22,Jammu & Kashmir,Alpha,Infiltration,Medium,34,Radar,42,Resolved
+INC00365,2024-04-21,Gujarat,Bravo,Smuggling,High,41,Thermal Camera,57,Monitoring
+INC00366,2025-07-17,Punjab,Bravo,Smuggling,High,30,Night Vision,11,Under Investigation
+INC00367,2025-05-22,Gujarat,Echo,Drone Activity,High,53,UAV,17,Resolved
+INC00368,2025-06-15,Jammu & Kashmir,Echo,Ceasefire Violation,Low,31,UAV,47,Resolved
+INC00369,2024-08-24,Arunachal Pradesh,Alpha,Infiltration,High,37,Radar,41,Resolved
+INC00370,2025-04-24,Arunachal Pradesh,Delta,Smuggling,Medium,15,Radar,13,Monitoring
+INC00371,2024-08-12,Jammu & Kashmir,Bravo,Infiltration,Low,11,UAV,22,Monitoring
+INC00372,2025-09-12,Rajasthan,Bravo,Drone Activity,Medium,15,Drone,20,Under Investigation
+INC00373,2025-08-06,Punjab,Bravo,Drone Activity,High,48,Radar,35,Monitoring
+INC00374,2025-12-02,Jammu & Kashmir,Bravo,Ceasefire Violation,Low,15,Drone,10,Monitoring
+INC00375,2024-05-08,Jammu & Kashmir,Echo,Infiltration,High,32,Radar,13,Under Investigation
+INC00376,2025-02-11,Jammu & Kashmir,Echo,Infiltration,Medium,18,Radar,12,Resolved
+INC00377,2024-08-29,Jammu & Kashmir,Charlie,Infiltration,Low,16,UAV,40,Under Investigation
+INC00378,2025-05-09,Punjab,Echo,Infiltration,Low,55,UAV,19,Resolved
+INC00379,2025-03-26,Jammu & Kashmir,Charlie,Smuggling,High,24,Radar,39,Under Investigation
+INC00380,2024-04-24,Punjab,Delta,Infiltration,Medium,25,Thermal Camera,18,Under Investigation
+INC00381,2025-10-16,Punjab,Charlie,Smuggling,High,23,Thermal Camera,6,Monitoring
+INC00382,2024-09-27,Arunachal Pradesh,Alpha,Drone Activity,High,26,Thermal Camera,6,Monitoring
+INC00383,2025-02-04,Gujarat,Charlie,Drone Activity,Low,19,Night Vision,17,Monitoring
+INC00384,2024-01-01,Punjab,Bravo,Infiltration,High,13,Drone,8,Under Investigation
+INC00385,2024-10-16,Jammu & Kashmir,Echo,Infiltration,High,22,Drone,49,Monitoring
+INC00386,2025-03-20,Gujarat,Delta,Infiltration,High,47,UAV,44,Resolved
+INC00387,2025-04-02,Gujarat,Echo,Infiltration,High,37,Drone,16,Under Investigation
+INC00388,2024-04-12,Jammu & Kashmir,Charlie,Infiltration,Low,52,Night Vision,31,Resolved
+INC00389,2024-01-14,Jammu & Kashmir,Bravo,Drone Activity,Medium,39,Night Vision,32,Under Investigation
+INC00390,2024-10-18,Punjab,Bravo,Smuggling,Low,14,Drone,60,Resolved
+INC00391,2025-01-26,Jammu & Kashmir,Charlie,Drone Activity,High,34,Thermal Camera,15,Under Investigation
+INC00392,2025-09-26,Punjab,Echo,Infiltration,Medium,44,Radar,17,Under Investigation
+INC00393,2025-10-29,Jammu & Kashmir,Bravo,Smuggling,High,26,Drone,35,Resolved
+INC00394,2024-06-05,Arunachal Pradesh,Charlie,Infiltration,High,15,UAV,46,Resolved
+INC00395,2025-10-16,Jammu & Kashmir,Charlie,Drone Activity,High,44,Radar,14,Under Investigation
+INC00396,2025-10-06,Punjab,Delta,Infiltration,High,53,Radar,26,Resolved
+INC00397,2024-02-06,Jammu & Kashmir,Charlie,Drone Activity,Medium,16,Night Vision,23,Resolved
+INC00398,2025-10-21,Jammu & Kashmir,Charlie,Drone Activity,Low,44,Drone,51,Under Investigation
+INC00399,2024-10-06,Jammu & Kashmir,Charlie,Infiltration,High,52,Drone,53,Monitoring
+INC00400,2024-02-10,Punjab,Echo,Smuggling,Medium,53,Radar,7,Monitoring
+INC00401,2024-10-09,Jammu & Kashmir,Charlie,Infiltration,Low,17,Night Vision,15,Under Investigation
+INC00402,2024-10-13,Jammu & Kashmir,Bravo,Infiltration,Low,22,Thermal Camera,29,Monitoring
+INC00403,2024-02-26,Punjab,Bravo,Infiltration,Low,25,Thermal Camera,16,Monitoring
+INC00404,2024-07-06,Jammu & Kashmir,Echo,Infiltration,Low,27,Drone,34,Resolved
+INC00405,2024-08-26,Jammu & Kashmir,Bravo,Smuggling,Medium,59,Radar,54,Resolved
+INC00406,2024-11-16,Punjab,Alpha,Ceasefire Violation,High,14,Radar,11,Monitoring
+INC00407,2025-12-05,Punjab,Echo,Infiltration,High,37,Thermal Camera,36,Monitoring
+INC00408,2024-01-29,Punjab,Charlie,Infiltration,High,24,Thermal Camera,31,Monitoring
+INC00409,2024-10-20,Jammu & Kashmir,Alpha,Smuggling,High,34,Night Vision,23,Under Investigation
+INC00410,2024-04-09,Gujarat,Alpha,Drone Activity,High,57,UAV,39,Under Investigation
+INC00411,2024-03-09,Arunachal Pradesh,Alpha,Drone Activity,High,31,Thermal Camera,7,Resolved
+INC00412,2024-05-15,Jammu & Kashmir,Charlie,Drone Activity,High,57,Radar,36,Resolved
+INC00413,2025-06-24,Rajasthan,Alpha,Smuggling,Low,24,Thermal Camera,27,Monitoring
+INC00414,2024-08-16,Rajasthan,Bravo,Ceasefire Violation,Medium,44,Drone,12,Under Investigation
+INC00415,2025-07-31,Jammu & Kashmir,Echo,Infiltration,High,12,Night Vision,13,Monitoring
+INC00416,2025-12-23,Jammu & Kashmir,Echo,Infiltration,High,28,UAV,22,Monitoring
+INC00417,2025-08-26,Jammu & Kashmir,Bravo,Infiltration,Low,21,Thermal Camera,39,Under Investigation
+INC00418,2024-03-01,Rajasthan,Delta,Drone Activity,High,19,Night Vision,37,Under Investigation
+INC00419,2024-04-08,Jammu & Kashmir,Bravo,Ceasefire Violation,Medium,16,Radar,10,Monitoring
+INC00420,2025-03-27,Gujarat,Charlie,Ceasefire Violation,High,52,Radar,32,Resolved
+INC00421,2025-07-13,Punjab,Echo,Drone Activity,High,59,Night Vision,41,Resolved
+INC00422,2025-03-07,Punjab,Bravo,Infiltration,Low,14,Thermal Camera,8,Under Investigation
+INC00423,2025-08-24,Gujarat,Alpha,Smuggling,Medium,15,Radar,6,Monitoring
+INC00424,2025-10-31,Jammu & Kashmir,Charlie,Ceasefire Violation,High,53,UAV,9,Resolved
+INC00425,2024-03-26,Jammu & Kashmir,Bravo,Infiltration,High,12,Night Vision,44,Resolved
+INC00426,2024-03-06,Jammu & Kashmir,Echo,Drone Activity,Medium,51,Night Vision,25,Monitoring
+INC00427,2025-08-06,Gujarat,Bravo,Drone Activity,Medium,29,Night Vision,33,Under Investigation
+INC00428,2025-04-17,Jammu & Kashmir,Echo,Infiltration,Medium,53,Drone,38,Resolved
+INC00429,2024-05-06,Gujarat,Charlie,Ceasefire Violation,High,17,UAV,12,Under Investigation
+INC00430,2024-04-24,Gujarat,Alpha,Smuggling,High,10,Night Vision,18,Monitoring
+INC00431,2025-09-12,Rajasthan,Echo,Infiltration,Medium,27,Drone,11,Under Investigation
+INC00432,2024-04-13,Gujarat,Echo,Smuggling,Medium,24,UAV,40,Resolved
+INC00433,2024-08-14,Arunachal Pradesh,Charlie,Infiltration,Low,42,UAV,42,Under Investigation
+INC00434,2024-12-15,Jammu & Kashmir,Echo,Infiltration,High,16,Radar,11,Monitoring
+INC00435,2025-01-28,Punjab,Charlie,Drone Activity,Medium,42,Drone,26,Resolved
+INC00436,2024-04-13,Jammu & Kashmir,Echo,Drone Activity,High,59,Radar,53,Monitoring
+INC00437,2024-05-01,Punjab,Alpha,Ceasefire Violation,Medium,36,UAV,52,Resolved
+INC00438,2024-12-31,Punjab,Charlie,Drone Activity,Low,50,Radar,50,Under Investigation
+INC00439,2024-04-23,Jammu & Kashmir,Bravo,Ceasefire Violation,High,50,Drone,47,Resolved
+INC00440,2024-09-15,Punjab,Charlie,Ceasefire Violation,Medium,24,Drone,13,Monitoring
+INC00441,2024-01-14,Jammu & Kashmir,Delta,Smuggling,High,29,Radar,31,Under Investigation
+INC00442,2024-02-10,Jammu & Kashmir,Charlie,Ceasefire Violation,Medium,20,Thermal Camera,11,Monitoring
+INC00443,2025-04-23,Arunachal Pradesh,Echo,Infiltration,High,54,Drone,50,Monitoring
+INC00444,2024-01-19,Punjab,Bravo,Drone Activity,High,37,Radar,25,Under Investigation
+INC00445,2025-05-18,Jammu & Kashmir,Echo,Drone Activity,High,16,Drone,8,Monitoring
+INC00446,2025-05-08,Jammu & Kashmir,Alpha,Smuggling,High,39,Drone,6,Under Investigation
+INC00447,2024-11-29,Gujarat,Delta,Ceasefire Violation,High,49,Radar,30,Resolved
+INC00448,2025-01-31,Jammu & Kashmir,Charlie,Ceasefire Violation,Medium,59,UAV,49,Monitoring
+INC00449,2025-10-12,Gujarat,Delta,Ceasefire Violation,High,45,Radar,25,Under Investigation
+INC00450,2025-03-20,Rajasthan,Alpha,Infiltration,Medium,51,Night Vision,51,Monitoring
+INC00451,2025-06-14,Jammu & Kashmir,Delta,Smuggling,Low,30,UAV,20,Monitoring
+INC00452,2024-12-26,Jammu & Kashmir,Bravo,Drone Activity,Low,14,Thermal Camera,57,Under Investigation
+INC00453,2025-05-29,Punjab,Bravo,Infiltration,High,48,Radar,41,Monitoring
+INC00454,2025-03-09,Punjab,Alpha,Infiltration,Low,44,Drone,37,Resolved
+INC00455,2024-10-30,Gujarat,Charlie,Smuggling,Medium,37,Drone,5,Monitoring
+INC00456,2025-09-28,Arunachal Pradesh,Charlie,Infiltration,Medium,29,Thermal Camera,56,Monitoring
+INC00457,2024-07-30,Punjab,Echo,Infiltration,Low,27,Night Vision,27,Monitoring
+INC00458,2025-04-26,Punjab,Bravo,Drone Activity,Medium,47,Night Vision,16,Resolved
+INC00459,2025-05-01,Gujarat,Delta,Ceasefire Violation,High,43,UAV,11,Under Investigation
+INC00460,2025-06-24,Jammu & Kashmir,Echo,Smuggling,Low,46,Thermal Camera,48,Under Investigation
+INC00461,2025-06-20,Punjab,Bravo,Infiltration,High,17,Night Vision,49,Under Investigation
+INC00462,2025-12-17,Jammu & Kashmir,Echo,Infiltration,High,32,Radar,15,Resolved
+INC00463,2024-12-21,Jammu & Kashmir,Alpha,Drone Activity,Low,13,Radar,25,Under Investigation
+INC00464,2024-07-29,Gujarat,Alpha,Infiltration,High,36,Drone,49,Monitoring
+INC00465,2024-09-26,Gujarat,Delta,Ceasefire Violation,Medium,60,Drone,27,Under Investigation
+INC00466,2025-08-24,Punjab,Charlie,Drone Activity,Medium,28,Night Vision,47,Resolved
+INC00467,2024-03-14,Jammu & Kashmir,Alpha,Infiltration,Low,30,UAV,25,Monitoring
+INC00468,2025-03-11,Rajasthan,Echo,Infiltration,Medium,20,UAV,18,Resolved
+INC00469,2025-03-09,Punjab,Delta,Cyber Threat,High,31,Thermal Camera,29,Monitoring
+INC00470,2024-08-18,Jammu & Kashmir,Bravo,Drone Activity,High,33,Thermal Camera,42,Monitoring
+INC00471,2024-04-10,Jammu & Kashmir,Charlie,Infiltration,High,37,Night Vision,33,Monitoring
+INC00472,2025-05-06,Punjab,Alpha,Drone Activity,Medium,19,Drone,51,Monitoring
+INC00473,2025-12-11,Punjab,Echo,Cyber Threat,Medium,31,Night Vision,7,Under Investigation
+INC00474,2024-06-05,Gujarat,Bravo,Drone Activity,Medium,24,Radar,45,Resolved
+INC00475,2025-06-04,Arunachal Pradesh,Echo,Ceasefire Violation,Medium,29,Radar,49,Resolved
+INC00476,2025-03-06,Rajasthan,Charlie,Drone Activity,Medium,44,Radar,46,Monitoring
+INC00477,2025-09-22,Jammu & Kashmir,Echo,Drone Activity,High,39,UAV,11,Monitoring
+INC00478,2024-07-18,Punjab,Echo,Drone Activity,High,31,Night Vision,19,Resolved
+INC00479,2024-02-06,Rajasthan,Echo,Ceasefire Violation,High,59,Drone,26,Monitoring
+INC00480,2025-12-25,Gujarat,Bravo,Drone Activity,High,47,Drone,24,Under Investigation
+INC00481,2024-05-16,Jammu & Kashmir,Delta,Infiltration,Medium,35,UAV,38,Under Investigation
+INC00482,2024-06-10,Gujarat,Bravo,Drone Activity,Low,40,Radar,9,Resolved
+INC00483,2025-03-04,Arunachal Pradesh,Bravo,Ceasefire Violation,High,34,Radar,24,Monitoring
+INC00484,2024-07-03,Jammu & Kashmir,Bravo,Infiltration,Medium,19,Radar,31,Monitoring
+INC00485,2025-02-02,Jammu & Kashmir,Charlie,Drone Activity,Low,43,Drone,27,Under Investigation
+INC00486,2025-01-18,Jammu & Kashmir,Bravo,Ceasefire Violation,Medium,57,Night Vision,5,Resolved
+INC00487,2024-09-14,Gujarat,Delta,Infiltration,Low,12,UAV,40,Resolved
+INC00488,2025-07-24,Rajasthan,Charlie,Drone Activity,High,27,Drone,59,Under Investigation
+INC00489,2025-11-20,Jammu & Kashmir,Alpha,Smuggling,Low,33,UAV,43,Monitoring
+INC00490,2024-01-15,Gujarat,Delta,Drone Activity,High,11,UAV,55,Under Investigation
+INC00491,2025-04-27,Jammu & Kashmir,Delta,Drone Activity,High,54,UAV,17,Resolved
+INC00492,2025-12-21,Punjab,Delta,Drone Activity,High,53,Thermal Camera,58,Resolved
+INC00493,2025-01-23,Punjab,Charlie,Smuggling,Medium,59,Drone,27,Monitoring
+INC00494,2025-04-20,Punjab,Charlie,Drone Activity,Medium,23,UAV,39,Under Investigation
+INC00495,2025-07-28,Jammu & Kashmir,Echo,Infiltration,Low,52,Thermal Camera,44,Under Investigation
+INC00496,2024-06-07,Rajasthan,Delta,Ceasefire Violation,Low,43,Drone,18,Under Investigation
+INC00497,2025-07-08,Jammu & Kashmir,Bravo,Infiltration,Medium,52,Drone,33,Monitoring
+INC00498,2024-02-05,Gujarat,Charlie,Drone Activity,Medium,37,UAV,55,Monitoring
+INC00499,2025-07-02,Jammu & Kashmir,Bravo,Drone Activity,High,33,Drone,31,Under Investigation
+INC00500,2025-04-27,Arunachal Pradesh,Bravo,Drone Activity,Medium,41,UAV,41,Under Investigation
+INC00501,2025-03-28,Arunachal Pradesh,Echo,Infiltration,Low,30,Night Vision,37,Under Investigation
+INC00502,2024-03-22,Punjab,Alpha,Drone Activity,Low,54,Night Vision,49,Under Investigation
+INC00503,2025-12-20,Jammu & Kashmir,Echo,Infiltration,High,16,Drone,35,Resolved
+INC00504,2025-06-02,Gujarat,Charlie,Smuggling,High,38,Thermal Camera,21,Resolved
+INC00505,2025-11-08,Punjab,Bravo,Smuggling,High,23,Night Vision,21,Monitoring
+INC00506,2024-01-05,Punjab,Echo,Cyber Threat,Medium,54,UAV,43,Monitoring
+INC00507,2024-01-26,Punjab,Alpha,Infiltration,High,52,UAV,41,Under Investigation
+INC00508,2025-09-04,Jammu & Kashmir,Alpha,Infiltration,Low,56,Thermal Camera,34,Under Investigation
+INC00509,2025-11-29,Arunachal Pradesh,Bravo,Drone Activity,Medium,54,Night Vision,21,Resolved
+INC00510,2025-04-12,Jammu & Kashmir,Delta,Drone Activity,High,53,Drone,49,Monitoring
+INC00511,2024-05-02,Arunachal Pradesh,Charlie,Ceasefire Violation,Medium,55,Radar,13,Monitoring
+INC00512,2025-02-28,Jammu & Kashmir,Charlie,Infiltration,High,35,Radar,45,Resolved
+INC00513,2025-04-25,Punjab,Alpha,Infiltration,Medium,18,Night Vision,28,Under Investigation
+INC00514,2024-07-20,Punjab,Alpha,Ceasefire Violation,High,38,Drone,60,Monitoring
+INC00515,2024-11-14,Gujarat,Alpha,Infiltration,High,32,Thermal Camera,14,Resolved
+INC00516,2025-10-03,Jammu & Kashmir,Charlie,Drone Activity,High,11,Radar,48,Under Investigation
+INC00517,2025-01-31,Arunachal Pradesh,Echo,Infiltration,High,59,Radar,24,Resolved
+INC00518,2025-08-03,Rajasthan,Echo,Infiltration,Medium,28,Thermal Camera,40,Monitoring
+INC00519,2025-11-10,Arunachal Pradesh,Bravo,Infiltration,High,25,Night Vision,46,Monitoring
+INC00520,2024-05-08,Jammu & Kashmir,Delta,Infiltration,High,60,Drone,32,Monitoring
+INC00521,2025-08-26,Punjab,Delta,Ceasefire Violation,High,47,Drone,24,Monitoring
+INC00522,2024-01-11,Punjab,Bravo,Smuggling,Medium,32,UAV,59,Under Investigation
+INC00523,2025-01-31,Punjab,Charlie,Infiltration,Medium,29,Radar,29,Under Investigation
+INC00524,2025-03-19,Punjab,Bravo,Ceasefire Violation,Medium,59,Drone,36,Monitoring
+INC00525,2024-11-15,Jammu & Kashmir,Echo,Drone Activity,Medium,47,Night Vision,54,Resolved
+INC00526,2025-10-13,Jammu & Kashmir,Bravo,Smuggling,High,28,UAV,44,Monitoring
+INC00527,2025-05-20,Jammu & Kashmir,Alpha,Infiltration,High,42,Radar,38,Under Investigation
+INC00528,2024-10-03,Punjab,Echo,Smuggling,High,21,UAV,48,Under Investigation
+INC00529,2024-09-22,Gujarat,Charlie,Ceasefire Violation,Medium,29,Drone,9,Resolved
+INC00530,2024-01-21,Punjab,Alpha,Drone Activity,Medium,52,Thermal Camera,51,Resolved
+INC00531,2024-09-24,Rajasthan,Bravo,Cyber Threat,High,18,Thermal Camera,9,Under Investigation
+INC00532,2025-03-25,Jammu & Kashmir,Delta,Drone Activity,High,47,Night Vision,19,Resolved
+INC00533,2024-04-19,Punjab,Charlie,Infiltration,Medium,24,Thermal Camera,47,Resolved
+INC00534,2024-11-27,Jammu & Kashmir,Alpha,Smuggling,High,20,Drone,53,Under Investigation
+INC00535,2025-07-18,Jammu & Kashmir,Delta,Infiltration,High,41,Night Vision,46,Monitoring
+INC00536,2024-11-04,Jammu & Kashmir,Bravo,Drone Activity,High,37,Thermal Camera,41,Under Investigation
+INC00537,2025-05-22,Punjab,Delta,Ceasefire Violation,Low,52,UAV,51,Under Investigation
+INC00538,2024-02-16,Jammu & Kashmir,Alpha,Smuggling,Medium,30,Thermal Camera,47,Monitoring
+INC00539,2024-03-22,Punjab,Delta,Drone Activity,High,34,Drone,50,Monitoring
+INC00540,2025-03-15,Punjab,Bravo,Drone Activity,High,33,Drone,9,Resolved
+INC00541,2025-11-05,Gujarat,Echo,Drone Activity,Medium,50,Night Vision,37,Monitoring
+INC00542,2025-08-25,Arunachal Pradesh,Echo,Infiltration,High,13,Drone,5,Monitoring
+INC00543,2025-11-08,Punjab,Alpha,Infiltration,Low,43,Drone,7,Monitoring
+INC00544,2025-10-28,Gujarat,Bravo,Smuggling,High,11,Drone,19,Monitoring
+INC00545,2024-05-20,Arunachal Pradesh,Echo,Infiltration,Medium,11,Thermal Camera,35,Under Investigation
+INC00546,2024-02-22,Jammu & Kashmir,Alpha,Smuggling,Medium,56,UAV,17,Under Investigation
+INC00547,2024-06-14,Jammu & Kashmir,Alpha,Infiltration,Medium,56,Thermal Camera,32,Resolved
+INC00548,2025-06-29,Punjab,Echo,Cyber Threat,Medium,21,Thermal Camera,35,Under Investigation
+INC00549,2024-04-23,Jammu & Kashmir,Alpha,Ceasefire Violation,Low,14,Night Vision,54,Resolved
+INC00550,2024-04-10,Arunachal Pradesh,Delta,Cyber Threat,Medium,45,Thermal Camera,35,Resolved
+INC00551,2025-03-02,Arunachal Pradesh,Delta,Smuggling,Medium,14,Radar,47,Monitoring
+INC00552,2025-03-08,Arunachal Pradesh,Charlie,Ceasefire Violation,Low,14,UAV,51,Monitoring
+INC00553,2024-03-14,Jammu & Kashmir,Charlie,Infiltration,High,21,Night Vision,34,Under Investigation
+INC00554,2024-04-13,Punjab,Alpha,Smuggling,High,19,Drone,30,Resolved
+INC00555,2024-12-20,Jammu & Kashmir,Charlie,Ceasefire Violation,Medium,34,Thermal Camera,51,Resolved
+INC00556,2024-12-13,Punjab,Bravo,Ceasefire Violation,Medium,47,Radar,6,Resolved
+INC00557,2025-06-07,Arunachal Pradesh,Bravo,Ceasefire Violation,High,25,Thermal Camera,13,Monitoring
+INC00558,2024-02-14,Jammu & Kashmir,Charlie,Infiltration,Medium,43,Drone,59,Monitoring
+INC00559,2025-01-07,Jammu & Kashmir,Bravo,Drone Activity,Low,12,UAV,45,Resolved
+INC00560,2025-07-08,Jammu & Kashmir,Echo,Drone Activity,High,10,Thermal Camera,11,Monitoring
+INC00561,2024-05-31,Jammu & Kashmir,Bravo,Drone Activity,High,31,Drone,34,Resolved
+INC00562,2025-05-03,Jammu & Kashmir,Bravo,Infiltration,Low,20,Night Vision,29,Under Investigation
+INC00563,2024-09-26,Jammu & Kashmir,Bravo,Infiltration,High,14,Thermal Camera,11,Monitoring
+INC00564,2025-01-10,Gujarat,Charlie,Drone Activity,Medium,19,UAV,28,Under Investigation
+INC00565,2024-09-03,Gujarat,Alpha,Infiltration,Medium,56,Night Vision,28,Monitoring
+INC00566,2024-02-17,Punjab,Charlie,Infiltration,Medium,59,Radar,20,Monitoring
+INC00567,2024-09-03,Arunachal Pradesh,Alpha,Infiltration,Low,31,Thermal Camera,40,Under Investigation
+INC00568,2025-07-31,Jammu & Kashmir,Delta,Infiltration,Medium,50,Radar,59,Monitoring
+INC00569,2024-07-13,Punjab,Bravo,Ceasefire Violation,Medium,21,Night Vision,32,Under Investigation
+INC00570,2024-06-05,Jammu & Kashmir,Echo,Drone Activity,Medium,50,Drone,55,Under Investigation
+INC00571,2024-02-24,Rajasthan,Alpha,Infiltration,Low,27,Night Vision,32,Under Investigation
+INC00572,2024-06-23,Arunachal Pradesh,Bravo,Infiltration,High,48,Drone,58,Under Investigation
+INC00573,2025-12-17,Jammu & Kashmir,Echo,Drone Activity,High,56,Night Vision,57,Under Investigation
+INC00574,2024-07-17,Jammu & Kashmir,Charlie,Ceasefire Violation,Medium,31,Night Vision,29,Monitoring
+INC00575,2025-06-22,Gujarat,Delta,Ceasefire Violation,Medium,34,Thermal Camera,39,Resolved
+INC00576,2024-11-20,Jammu & Kashmir,Delta,Drone Activity,Low,21,Thermal Camera,11,Monitoring
+INC00577,2025-04-19,Jammu & Kashmir,Charlie,Infiltration,High,23,UAV,7,Monitoring
+INC00578,2024-04-03,Arunachal Pradesh,Echo,Infiltration,Medium,58,Night Vision,11,Monitoring
+INC00579,2025-08-06,Jammu & Kashmir,Bravo,Infiltration,High,26,UAV,60,Monitoring
+INC00580,2025-03-26,Jammu & Kashmir,Echo,Infiltration,High,58,Thermal Camera,45,Under Investigation
+INC00581,2024-04-22,Gujarat,Alpha,Smuggling,Low,26,UAV,59,Monitoring
+INC00582,2024-07-31,Arunachal Pradesh,Delta,Ceasefire Violation,Medium,49,UAV,12,Monitoring
+INC00583,2024-01-07,Punjab,Bravo,Smuggling,Low,57,UAV,45,Monitoring
+INC00584,2024-01-13,Punjab,Echo,Ceasefire Violation,Medium,13,UAV,19,Monitoring
+INC00585,2025-10-31,Gujarat,Delta,Drone Activity,Medium,49,Radar,52,Monitoring
+INC00586,2024-04-28,Gujarat,Alpha,Infiltration,Low,15,Night Vision,34,Monitoring
+INC00587,2025-01-17,Arunachal Pradesh,Delta,Ceasefire Violation,Low,14,Night Vision,10,Under Investigation
+INC00588,2024-08-26,Jammu & Kashmir,Bravo,Infiltration,Medium,32,Night Vision,12,Resolved
+INC00589,2024-01-21,Rajasthan,Echo,Drone Activity,Low,46,Thermal Camera,34,Monitoring
+INC00590,2024-06-23,Jammu & Kashmir,Echo,Ceasefire Violation,Medium,33,Night Vision,31,Resolved
+INC00591,2024-08-23,Rajasthan,Delta,Infiltration,Low,51,UAV,47,Monitoring
+INC00592,2024-04-15,Jammu & Kashmir,Echo,Infiltration,Low,45,UAV,49,Under Investigation
+INC00593,2025-09-22,Arunachal Pradesh,Delta,Drone Activity,High,55,Drone,40,Resolved
+INC00594,2024-03-22,Rajasthan,Bravo,Infiltration,Medium,33,Night Vision,16,Resolved
+INC00595,2024-05-02,Rajasthan,Charlie,Ceasefire Violation,High,42,Thermal Camera,16,Resolved
+INC00596,2024-12-31,Arunachal Pradesh,Echo,Infiltration,High,15,Night Vision,31,Resolved
+INC00597,2024-06-29,Jammu & Kashmir,Echo,Infiltration,High,55,Radar,48,Under Investigation
+INC00598,2025-08-25,Gujarat,Alpha,Drone Activity,Medium,33,Thermal Camera,19,Under Investigation
+INC00599,2025-04-12,Gujarat,Delta,Drone Activity,Medium,15,Radar,35,Under Investigation
+INC00600,2025-10-21,Jammu & Kashmir,Delta,Drone Activity,High,43,Drone,45,Monitoring
+INC00601,2024-03-07,Jammu & Kashmir,Echo,Infiltration,Medium,54,UAV,49,Under Investigation
+INC00602,2024-05-02,Rajasthan,Delta,Infiltration,Low,57,Radar,18,Under Investigation
+INC00603,2024-02-23,Jammu & Kashmir,Charlie,Infiltration,Low,36,Radar,43,Under Investigation
+INC00604,2024-04-19,Gujarat,Delta,Infiltration,High,59,Thermal Camera,18,Under Investigation
+INC00605,2025-03-11,Gujarat,Charlie,Smuggling,Low,43,UAV,7,Monitoring
+INC00606,2024-08-29,Jammu & Kashmir,Charlie,Drone Activity,Medium,56,Night Vision,45,Resolved
+INC00607,2024-01-20,Gujarat,Delta,Infiltration,Medium,24,Thermal Camera,36,Under Investigation
+INC00608,2024-04-16,Jammu & Kashmir,Bravo,Drone Activity,High,36,Radar,26,Resolved
+INC00609,2025-02-10,Rajasthan,Charlie,Ceasefire Violation,Medium,52,Thermal Camera,9,Under Investigation
+INC00610,2025-09-11,Punjab,Delta,Drone Activity,High,53,UAV,34,Monitoring
+INC00611,2025-02-20,Gujarat,Alpha,Ceasefire Violation,High,25,Drone,14,Resolved
+INC00612,2024-12-23,Arunachal Pradesh,Bravo,Infiltration,High,49,Radar,46,Monitoring
+INC00613,2024-06-07,Jammu & Kashmir,Bravo,Ceasefire Violation,High,26,Thermal Camera,33,Under Investigation
+INC00614,2025-11-24,Jammu & Kashmir,Echo,Infiltration,Medium,23,Night Vision,9,Resolved
+INC00615,2025-10-01,Arunachal Pradesh,Bravo,Infiltration,Medium,28,Radar,21,Under Investigation
+INC00616,2024-12-04,Jammu & Kashmir,Alpha,Cyber Threat,Medium,18,Radar,40,Monitoring
+INC00617,2024-05-30,Jammu & Kashmir,Charlie,Infiltration,Medium,41,UAV,30,Under Investigation
+INC00618,2024-04-05,Punjab,Bravo,Smuggling,Low,52,Night Vision,35,Under Investigation
+INC00619,2024-05-07,Jammu & Kashmir,Charlie,Ceasefire Violation,High,20,Radar,31,Resolved
+INC00620,2024-02-07,Rajasthan,Alpha,Ceasefire Violation,Medium,39,Thermal Camera,54,Resolved
+INC00621,2025-03-24,Arunachal Pradesh,Delta,Ceasefire Violation,High,25,Night Vision,13,Under Investigation
+INC00622,2025-07-03,Jammu & Kashmir,Echo,Drone Activity,Medium,19,Drone,20,Resolved
+INC00623,2025-10-28,Jammu & Kashmir,Delta,Smuggling,Low,52,Thermal Camera,59,Resolved
+INC00624,2025-12-18,Punjab,Delta,Drone Activity,High,27,Thermal Camera,31,Monitoring
+INC00625,2024-06-21,Gujarat,Bravo,Smuggling,Medium,32,Drone,19,Monitoring
+INC00626,2024-12-11,Jammu & Kashmir,Bravo,Smuggling,Medium,35,Drone,46,Under Investigation
+INC00627,2025-04-20,Arunachal Pradesh,Alpha,Drone Activity,Low,20,Thermal Camera,38,Resolved
+INC00628,2025-07-26,Jammu & Kashmir,Bravo,Ceasefire Violation,Medium,33,UAV,46,Resolved
+INC00629,2024-08-07,Jammu & Kashmir,Echo,Infiltration,Medium,48,Radar,55,Monitoring
+INC00630,2024-07-26,Jammu & Kashmir,Echo,Ceasefire Violation,High,26,Drone,18,Monitoring
+INC00631,2025-01-23,Jammu & Kashmir,Alpha,Infiltration,High,41,Night Vision,41,Monitoring
+INC00632,2024-06-14,Jammu & Kashmir,Bravo,Cyber Threat,High,31,Night Vision,27,Under Investigation
+INC00633,2024-11-30,Punjab,Charlie,Infiltration,High,43,UAV,35,Monitoring
+INC00634,2024-06-27,Rajasthan,Echo,Infiltration,High,35,Night Vision,46,Under Investigation
+INC00635,2025-04-08,Punjab,Charlie,Cyber Threat,Low,35,UAV,28,Under Investigation
+INC00636,2025-03-12,Rajasthan,Bravo,Ceasefire Violation,Medium,17,Thermal Camera,44,Resolved
+INC00637,2025-11-30,Punjab,Bravo,Ceasefire Violation,High,24,Thermal Camera,6,Under Investigation
+INC00638,2025-04-10,Punjab,Bravo,Drone Activity,Low,16,Thermal Camera,9,Under Investigation
+INC00639,2025-04-01,Jammu & Kashmir,Bravo,Infiltration,High,38,Thermal Camera,54,Monitoring
+INC00640,2025-06-12,Jammu & Kashmir,Alpha,Ceasefire Violation,Low,31,Radar,22,Monitoring
+INC00641,2025-10-18,Jammu & Kashmir,Delta,Drone Activity,High,26,Radar,47,Monitoring
+INC00642,2024-10-08,Jammu & Kashmir,Echo,Infiltration,Medium,51,Night Vision,21,Under Investigation
+INC00643,2025-12-31,Rajasthan,Bravo,Drone Activity,Low,40,Radar,60,Under Investigation
+INC00644,2025-02-13,Jammu & Kashmir,Echo,Infiltration,High,34,UAV,55,Resolved
+INC00645,2025-05-30,Rajasthan,Echo,Infiltration,Medium,17,Radar,9,Monitoring
+INC00646,2024-02-13,Punjab,Delta,Drone Activity,High,34,Drone,16,Monitoring
+INC00647,2025-01-08,Jammu & Kashmir,Alpha,Cyber Threat,High,40,UAV,60,Monitoring
+INC00648,2024-07-26,Jammu & Kashmir,Echo,Ceasefire Violation,Low,41,Night Vision,8,Under Investigation
+INC00649,2025-02-27,Jammu & Kashmir,Echo,Ceasefire Violation,Medium,15,Drone,53,Monitoring
+INC00650,2025-04-15,Punjab,Alpha,Drone Activity,Medium,34,Radar,36,Monitoring
+INC00651,2024-03-01,Punjab,Delta,Drone Activity,High,59,Thermal Camera,52,Under Investigation
+INC00652,2025-10-29,Jammu & Kashmir,Alpha,Infiltration,High,26,Night Vision,59,Monitoring
+INC00653,2025-01-21,Jammu & Kashmir,Echo,Drone Activity,High,25,UAV,59,Under Investigation
+INC00654,2025-08-27,Punjab,Bravo,Infiltration,Low,12,Thermal Camera,22,Resolved
+INC00655,2025-03-31,Punjab,Bravo,Drone Activity,Low,55,Drone,21,Monitoring
+INC00656,2025-08-01,Punjab,Charlie,Infiltration,Low,31,Thermal Camera,18,Under Investigation
+INC00657,2024-02-08,Rajasthan,Bravo,Ceasefire Violation,High,39,Drone,47,Monitoring
+INC00658,2024-06-30,Punjab,Bravo,Ceasefire Violation,Low,47,Night Vision,8,Resolved
+INC00659,2024-09-28,Arunachal Pradesh,Charlie,Ceasefire Violation,Medium,51,Drone,48,Resolved
+INC00660,2024-07-04,Jammu & Kashmir,Alpha,Drone Activity,High,52,Thermal Camera,8,Monitoring
+INC00661,2025-11-02,Punjab,Alpha,Drone Activity,Low,44,Night Vision,59,Under Investigation
+INC00662,2025-05-07,Jammu & Kashmir,Charlie,Ceasefire Violation,Medium,49,UAV,18,Resolved
+INC00663,2024-10-31,Arunachal Pradesh,Delta,Ceasefire Violation,Medium,17,Radar,8,Resolved
+INC00664,2024-07-16,Jammu & Kashmir,Echo,Infiltration,Medium,47,Radar,17,Under Investigation
+INC00665,2025-03-21,Jammu & Kashmir,Echo,Infiltration,Medium,59,Night Vision,27,Under Investigation
+INC00666,2025-05-14,Punjab,Alpha,Infiltration,Low,48,UAV,15,Under Investigation
+INC00667,2024-12-07,Jammu & Kashmir,Bravo,Ceasefire Violation,High,51,UAV,56,Resolved
+INC00668,2024-05-23,Gujarat,Delta,Drone Activity,High,53,Drone,14,Monitoring
+INC00669,2025-05-31,Punjab,Alpha,Infiltration,High,15,Night Vision,8,Resolved
+INC00670,2025-08-17,Rajasthan,Echo,Infiltration,High,18,Night Vision,7,Resolved
+INC00671,2025-07-09,Jammu & Kashmir,Bravo,Infiltration,Medium,55,Thermal Camera,53,Monitoring
+INC00672,2024-04-27,Gujarat,Echo,Infiltration,Medium,17,Thermal Camera,52,Under Investigation
+INC00673,2024-07-15,Gujarat,Alpha,Smuggling,Low,42,Radar,12,Monitoring
+INC00674,2025-08-27,Punjab,Bravo,Infiltration,Low,28,Night Vision,27,Under Investigation
+INC00675,2024-11-10,Jammu & Kashmir,Alpha,Drone Activity,High,59,Drone,39,Resolved
+INC00676,2025-02-28,Gujarat,Delta,Ceasefire Violation,Low,44,Thermal Camera,34,Monitoring
+INC00677,2025-04-08,Punjab,Echo,Infiltration,Medium,58,Radar,5,Under Investigation
+INC00678,2025-03-25,Jammu & Kashmir,Bravo,Infiltration,Medium,37,Night Vision,34,Monitoring
+INC00679,2025-05-27,Jammu & Kashmir,Bravo,Infiltration,High,30,UAV,58,Monitoring
+INC00680,2024-05-19,Jammu & Kashmir,Charlie,Infiltration,High,43,Night Vision,47,Resolved
+INC00681,2024-07-01,Arunachal Pradesh,Bravo,Drone Activity,High,58,Drone,53,Resolved
+INC00682,2024-11-22,Rajasthan,Echo,Ceasefire Violation,Medium,22,Drone,21,Under Investigation
+INC00683,2024-04-08,Jammu & Kashmir,Delta,Infiltration,Medium,46,Radar,40,Monitoring
+INC00684,2024-03-19,Punjab,Charlie,Smuggling,Medium,51,Radar,44,Resolved
+INC00685,2024-02-09,Punjab,Alpha,Infiltration,High,52,UAV,33,Monitoring
+INC00686,2025-11-28,Jammu & Kashmir,Bravo,Infiltration,Medium,10,Thermal Camera,20,Resolved
+INC00687,2024-07-12,Rajasthan,Bravo,Ceasefire Violation,Low,48,UAV,40,Under Investigation
+INC00688,2025-03-03,Punjab,Echo,Smuggling,High,42,Thermal Camera,57,Resolved
+INC00689,2025-04-11,Jammu & Kashmir,Charlie,Infiltration,Medium,11,Thermal Camera,59,Monitoring
+INC00690,2024-12-26,Jammu & Kashmir,Delta,Drone Activity,High,30,Thermal Camera,42,Monitoring
+INC00691,2025-06-26,Gujarat,Alpha,Infiltration,High,44,Thermal Camera,37,Monitoring
+INC00692,2024-11-29,Arunachal Pradesh,Echo,Drone Activity,High,40,Night Vision,59,Under Investigation
+INC00693,2025-10-11,Arunachal Pradesh,Echo,Smuggling,High,50,Radar,46,Under Investigation
+INC00694,2024-02-24,Jammu & Kashmir,Alpha,Drone Activity,Medium,51,Drone,58,Under Investigation
+INC00695,2024-11-06,Arunachal Pradesh,Echo,Smuggling,High,17,Thermal Camera,35,Monitoring
+INC00696,2025-12-14,Gujarat,Delta,Infiltration,Low,55,Radar,31,Under Investigation
+INC00697,2024-02-15,Jammu & Kashmir,Alpha,Smuggling,Low,44,Radar,34,Under Investigation
+INC00698,2025-10-26,Jammu & Kashmir,Alpha,Drone Activity,High,10,Night Vision,30,Monitoring
+INC00699,2024-06-16,Punjab,Alpha,Drone Activity,Medium,37,Thermal Camera,51,Resolved
+INC00700,2024-05-08,Jammu & Kashmir,Bravo,Ceasefire Violation,Low,42,Radar,7,Under Investigation
+INC00701,2024-01-11,Punjab,Echo,Ceasefire Violation,Medium,33,Night Vision,18,Resolved
+INC00702,2025-09-14,Jammu & Kashmir,Alpha,Smuggling,Low,47,Thermal Camera,54,Resolved
+INC00703,2024-03-05,Jammu & Kashmir,Bravo,Drone Activity,Low,50,Night Vision,18,Resolved
+INC00704,2024-12-14,Punjab,Echo,Smuggling,Medium,57,Drone,14,Under Investigation
+INC00705,2024-01-28,Arunachal Pradesh,Bravo,Drone Activity,High,21,Radar,51,Monitoring
+INC00706,2024-07-25,Jammu & Kashmir,Echo,Drone Activity,Medium,25,Night Vision,32,Under Investigation
+INC00707,2025-05-11,Jammu & Kashmir,Charlie,Infiltration,Medium,33,UAV,42,Resolved
+INC00708,2025-06-29,Punjab,Alpha,Drone Activity,Low,37,Thermal Camera,57,Under Investigation
+INC00709,2024-11-14,Jammu & Kashmir,Charlie,Drone Activity,Medium,50,Radar,16,Under Investigation
+INC00710,2024-06-25,Jammu & Kashmir,Charlie,Infiltration,Medium,39,Thermal Camera,49,Monitoring
+INC00711,2024-08-01,Rajasthan,Delta,Drone Activity,Low,43,Night Vision,27,Under Investigation
+INC00712,2024-07-12,Gujarat,Alpha,Drone Activity,High,37,Thermal Camera,45,Resolved
+INC00713,2025-03-09,Rajasthan,Bravo,Drone Activity,High,53,Drone,56,Monitoring
+INC00714,2024-02-20,Gujarat,Alpha,Infiltration,High,41,Drone,35,Under Investigation
+INC00715,2024-08-11,Gujarat,Alpha,Ceasefire Violation,High,56,Thermal Camera,27,Monitoring
+INC00716,2025-08-16,Punjab,Echo,Drone Activity,High,27,Radar,24,Under Investigation
+INC00717,2025-05-30,Punjab,Charlie,Infiltration,Medium,17,Radar,47,Under Investigation
+INC00718,2024-10-19,Jammu & Kashmir,Echo,Ceasefire Violation,Low,60,UAV,30,Monitoring
+INC00719,2024-06-09,Rajasthan,Bravo,Infiltration,High,30,Thermal Camera,45,Under Investigation
+INC00720,2024-04-09,Jammu & Kashmir,Echo,Drone Activity,Medium,46,UAV,25,Under Investigation
+INC00721,2024-06-14,Jammu & Kashmir,Echo,Infiltration,High,11,UAV,56,Under Investigation
+INC00722,2024-02-16,Gujarat,Echo,Drone Activity,High,21,UAV,13,Resolved
+INC00723,2024-04-01,Jammu & Kashmir,Alpha,Smuggling,Low,23,UAV,6,Monitoring
+INC00724,2024-06-07,Jammu & Kashmir,Delta,Infiltration,Low,53,Radar,57,Under Investigation
+INC00725,2024-07-29,Rajasthan,Echo,Infiltration,High,60,Thermal Camera,28,Monitoring
+INC00726,2024-07-16,Arunachal Pradesh,Delta,Infiltration,Low,31,Thermal Camera,12,Resolved
+INC00727,2025-06-12,Arunachal Pradesh,Delta,Ceasefire Violation,High,13,UAV,34,Monitoring
+INC00728,2024-06-03,Jammu & Kashmir,Alpha,Smuggling,Low,10,Radar,40,Monitoring
+INC00729,2025-11-02,Punjab,Delta,Drone Activity,High,47,Thermal Camera,5,Monitoring
+INC00730,2024-10-06,Jammu & Kashmir,Alpha,Infiltration,High,14,Radar,27,Under Investigation
+INC00731,2025-12-01,Jammu & Kashmir,Alpha,Ceasefire Violation,Medium,43,Drone,36,Resolved
+INC00732,2024-08-28,Rajasthan,Echo,Ceasefire Violation,High,14,Drone,8,Monitoring
+INC00733,2024-07-11,Jammu & Kashmir,Bravo,Drone Activity,Low,35,Thermal Camera,39,Monitoring
+INC00734,2024-08-28,Jammu & Kashmir,Charlie,Ceasefire Violation,Medium,19,Drone,55,Resolved
+INC00735,2025-01-11,Arunachal Pradesh,Alpha,Ceasefire Violation,High,44,UAV,16,Monitoring
+INC00736,2024-10-06,Jammu & Kashmir,Charlie,Drone Activity,Medium,28,Thermal Camera,42,Resolved
+INC00737,2024-02-15,Jammu & Kashmir,Delta,Drone Activity,High,31,UAV,24,Resolved
+INC00738,2024-08-07,Gujarat,Charlie,Ceasefire Violation,High,29,Thermal Camera,37,Under Investigation
+INC00739,2024-12-09,Arunachal Pradesh,Charlie,Ceasefire Violation,Medium,14,Night Vision,48,Resolved
+INC00740,2024-04-29,Jammu & Kashmir,Delta,Smuggling,High,21,UAV,44,Monitoring
+INC00741,2024-10-13,Punjab,Charlie,Infiltration,Medium,15,Radar,59,Resolved
+INC00742,2024-08-06,Gujarat,Charlie,Ceasefire Violation,Medium,47,Radar,25,Under Investigation
+INC00743,2025-08-04,Gujarat,Charlie,Infiltration,Medium,34,UAV,43,Monitoring
+INC00744,2024-10-13,Arunachal Pradesh,Echo,Infiltration,High,51,Drone,9,Under Investigation
+INC00745,2025-02-09,Arunachal Pradesh,Delta,Drone Activity,Low,11,Thermal Camera,5,Under Investigation
+INC00746,2024-08-27,Punjab,Bravo,Infiltration,High,33,Radar,34,Under Investigation
+INC00747,2025-05-20,Punjab,Delta,Ceasefire Violation,Medium,11,Radar,40,Resolved
+INC00748,2025-10-13,Jammu & Kashmir,Delta,Drone Activity,High,51,Radar,14,Resolved
+INC00749,2025-09-09,Rajasthan,Charlie,Smuggling,High,13,UAV,5,Resolved
+INC00750,2025-09-22,Punjab,Bravo,Ceasefire Violation,Medium,14,Drone,27,Under Investigation
+INC00751,2025-01-21,Arunachal Pradesh,Bravo,Smuggling,Medium,44,Thermal Camera,19,Monitoring
+INC00752,2025-07-18,Jammu & Kashmir,Echo,Drone Activity,High,30,Drone,56,Under Investigation
+INC00753,2025-11-15,Gujarat,Charlie,Drone Activity,High,52,Radar,43,Resolved
+INC00754,2025-06-26,Punjab,Delta,Infiltration,High,20,UAV,34,Under Investigation
+INC00755,2024-03-04,Punjab,Bravo,Infiltration,Medium,33,Thermal Camera,52,Monitoring
+INC00756,2025-05-15,Gujarat,Echo,Ceasefire Violation,High,14,Radar,22,Under Investigation
+INC00757,2024-06-07,Jammu & Kashmir,Alpha,Drone Activity,Low,23,UAV,11,Monitoring
+INC00758,2025-06-19,Jammu & Kashmir,Echo,Drone Activity,High,37,Radar,8,Resolved
+INC00759,2025-05-04,Jammu & Kashmir,Delta,Infiltration,High,46,UAV,19,Monitoring
+INC00760,2024-02-06,Punjab,Alpha,Infiltration,Medium,14,Drone,40,Resolved
+INC00761,2025-07-01,Gujarat,Echo,Drone Activity,High,21,Radar,42,Under Investigation
+INC00762,2025-07-02,Jammu & Kashmir,Alpha,Ceasefire Violation,High,32,Radar,25,Under Investigation
+INC00763,2025-09-02,Arunachal Pradesh,Echo,Drone Activity,Medium,50,UAV,57,Under Investigation
+INC00764,2024-09-12,Gujarat,Bravo,Infiltration,Low,54,Thermal Camera,54,Resolved
+INC00765,2024-02-12,Jammu & Kashmir,Echo,Ceasefire Violation,Medium,59,Drone,43,Under Investigation
+INC00766,2025-07-24,Jammu & Kashmir,Echo,Infiltration,Low,42,Drone,21,Monitoring
+INC00767,2024-10-15,Arunachal Pradesh,Alpha,Infiltration,High,42,Night Vision,8,Monitoring
+INC00768,2024-08-13,Jammu & Kashmir,Alpha,Infiltration,High,18,Radar,54,Monitoring
+INC00769,2025-06-14,Punjab,Echo,Infiltration,Low,32,UAV,55,Resolved
+INC00770,2024-08-16,Punjab,Delta,Cyber Threat,High,42,Thermal Camera,20,Monitoring
+INC00771,2025-09-18,Arunachal Pradesh,Bravo,Infiltration,Medium,27,UAV,11,Resolved
+INC00772,2025-04-18,Jammu & Kashmir,Echo,Ceasefire Violation,Low,33,UAV,44,Under Investigation
+INC00773,2025-07-13,Jammu & Kashmir,Echo,Infiltration,High,47,UAV,59,Monitoring
+INC00774,2025-10-07,Jammu & Kashmir,Delta,Infiltration,High,60,Radar,22,Resolved
+INC00775,2024-03-19,Jammu & Kashmir,Delta,Smuggling,High,34,UAV,18,Resolved
+INC00776,2025-12-29,Punjab,Echo,Cyber Threat,Medium,23,Drone,33,Under Investigation
+INC00777,2024-11-09,Gujarat,Delta,Drone Activity,Medium,39,Drone,60,Under Investigation
+INC00778,2024-01-28,Rajasthan,Echo,Infiltration,High,17,Thermal Camera,13,Under Investigation
+INC00779,2024-03-22,Gujarat,Echo,Drone Activity,High,23,Night Vision,46,Resolved
+INC00780,2024-10-22,Jammu & Kashmir,Delta,Infiltration,High,40,Night Vision,32,Resolved
+INC00781,2025-10-13,Punjab,Delta,Ceasefire Violation,Low,30,UAV,47,Under Investigation
+INC00782,2024-04-09,Jammu & Kashmir,Alpha,Drone Activity,High,42,UAV,39,Under Investigation
+INC00783,2025-10-14,Jammu & Kashmir,Bravo,Drone Activity,Low,53,Night Vision,60,Under Investigation
+INC00784,2025-05-21,Jammu & Kashmir,Charlie,Ceasefire Violation,Medium,52,Thermal Camera,21,Under Investigation
+INC00785,2024-02-23,Gujarat,Alpha,Infiltration,High,52,Night Vision,32,Resolved
+INC00786,2024-08-03,Jammu & Kashmir,Alpha,Infiltration,Low,38,Drone,8,Resolved
+INC00787,2024-05-10,Arunachal Pradesh,Charlie,Drone Activity,Medium,46,Drone,39,Resolved
+INC00788,2024-05-17,Arunachal Pradesh,Alpha,Ceasefire Violation,High,52,UAV,56,Resolved
+INC00789,2025-05-20,Rajasthan,Echo,Infiltration,Low,15,Drone,35,Under Investigation
+INC00790,2025-01-13,Gujarat,Charlie,Infiltration,High,22,UAV,36,Under Investigation
+INC00791,2024-09-01,Jammu & Kashmir,Echo,Drone Activity,Medium,30,Night Vision,29,Resolved
+INC00792,2024-09-30,Jammu & Kashmir,Alpha,Ceasefire Violation,High,26,Thermal Camera,41,Monitoring
+INC00793,2025-01-07,Punjab,Echo,Cyber Threat,High,59,Radar,24,Resolved
+INC00794,2025-04-23,Punjab,Charlie,Infiltration,Low,12,Thermal Camera,24,Monitoring
+INC00795,2025-11-14,Rajasthan,Echo,Infiltration,Medium,59,Thermal Camera,18,Monitoring
+INC00796,2024-10-21,Jammu & Kashmir,Delta,Smuggling,Low,33,Drone,22,Monitoring
+INC00797,2024-10-14,Gujarat,Delta,Ceasefire Violation,Medium,42,Night Vision,53,Under Investigation
+INC00798,2025-09-20,Jammu & Kashmir,Echo,Smuggling,High,13,Radar,42,Resolved
+INC00799,2025-09-20,Gujarat,Delta,Ceasefire Violation,Medium,23,Night Vision,8,Monitoring
+INC00800,2025-11-25,Punjab,Alpha,Drone Activity,Low,12,Drone,35,Under Investigation
+INC00801,2025-06-05,Rajasthan,Alpha,Drone Activity,Medium,27,Night Vision,24,Resolved
+INC00802,2025-10-14,Gujarat,Delta,Drone Activity,Medium,36,Radar,26,Under Investigation
+INC00803,2024-04-05,Arunachal Pradesh,Charlie,Drone Activity,Medium,43,UAV,33,Monitoring
+INC00804,2025-01-06,Rajasthan,Charlie,Drone Activity,High,26,Radar,40,Resolved
+INC00805,2024-11-15,Jammu & Kashmir,Echo,Drone Activity,Medium,49,Night Vision,49,Resolved
+INC00806,2024-12-15,Punjab,Charlie,Infiltration,High,51,Radar,38,Monitoring
+INC00807,2024-03-28,Jammu & Kashmir,Charlie,Drone Activity,High,60,Drone,7,Monitoring
+INC00808,2024-01-01,Rajasthan,Delta,Cyber Threat,High,59,UAV,16,Under Investigation
+INC00809,2024-11-20,Punjab,Alpha,Ceasefire Violation,High,52,UAV,13,Monitoring
+INC00810,2024-10-11,Punjab,Echo,Drone Activity,Low,33,UAV,51,Under Investigation
+INC00811,2025-12-04,Jammu & Kashmir,Alpha,Infiltration,High,22,Night Vision,9,Resolved
+INC00812,2025-03-15,Arunachal Pradesh,Bravo,Drone Activity,High,59,Drone,20,Under Investigation
+INC00813,2024-02-05,Jammu & Kashmir,Bravo,Ceasefire Violation,High,33,Drone,8,Monitoring
+INC00814,2025-03-29,Jammu & Kashmir,Delta,Smuggling,Medium,13,Night Vision,43,Resolved
+INC00815,2025-07-04,Punjab,Delta,Infiltration,Medium,29,Drone,23,Under Investigation
+INC00816,2025-10-19,Gujarat,Charlie,Drone Activity,Medium,40,Drone,55,Under Investigation
+INC00817,2025-07-23,Gujarat,Charlie,Smuggling,High,40,Night Vision,15,Monitoring
+INC00818,2024-06-02,Punjab,Alpha,Infiltration,Medium,57,Night Vision,35,Monitoring
+INC00819,2025-05-02,Jammu & Kashmir,Echo,Ceasefire Violation,Low,19,Radar,9,Resolved
+INC00820,2024-10-12,Punjab,Echo,Infiltration,High,36,UAV,60,Under Investigation
+INC00821,2024-07-09,Punjab,Alpha,Ceasefire Violation,Medium,22,Thermal Camera,48,Under Investigation
+INC00822,2024-12-07,Jammu & Kashmir,Alpha,Infiltration,High,50,UAV,45,Resolved
+INC00823,2024-07-31,Arunachal Pradesh,Bravo,Cyber Threat,Low,31,UAV,49,Monitoring
+INC00824,2025-01-16,Rajasthan,Bravo,Drone Activity,Medium,36,Night Vision,35,Monitoring
+INC00825,2025-01-14,Punjab,Charlie,Infiltration,High,33,Night Vision,19,Monitoring
+INC00826,2025-07-02,Jammu & Kashmir,Bravo,Ceasefire Violation,High,31,Thermal Camera,42,Resolved
+INC00827,2025-03-17,Jammu & Kashmir,Charlie,Infiltration,High,20,Radar,26,Resolved
+INC00828,2025-06-29,Jammu & Kashmir,Charlie,Drone Activity,High,40,Thermal Camera,47,Resolved
+INC00829,2025-08-29,Jammu & Kashmir,Bravo,Infiltration,High,60,UAV,52,Resolved
+INC00830,2024-11-01,Rajasthan,Charlie,Infiltration,Medium,46,UAV,34,Resolved
+INC00831,2025-08-26,Gujarat,Delta,Infiltration,High,22,Thermal Camera,47,Resolved
+INC00832,2024-02-06,Arunachal Pradesh,Alpha,Drone Activity,High,53,Drone,26,Monitoring
+INC00833,2024-10-31,Jammu & Kashmir,Delta,Smuggling,High,38,Night Vision,30,Monitoring
+INC00834,2024-11-14,Rajasthan,Delta,Drone Activity,High,57,Drone,47,Resolved
+INC00835,2025-10-15,Jammu & Kashmir,Bravo,Ceasefire Violation,Medium,48,Drone,47,Monitoring
+INC00836,2025-02-27,Jammu & Kashmir,Echo,Infiltration,Medium,55,Night Vision,18,Monitoring
+INC00837,2024-12-22,Jammu & Kashmir,Alpha,Ceasefire Violation,Medium,48,UAV,25,Monitoring
+INC00838,2024-10-08,Rajasthan,Echo,Ceasefire Violation,Medium,53,Drone,48,Monitoring
+INC00839,2025-03-19,Gujarat,Charlie,Smuggling,Medium,36,Thermal Camera,15,Resolved
+INC00840,2024-06-19,Jammu & Kashmir,Charlie,Drone Activity,High,55,Radar,58,Monitoring
+INC00841,2024-03-29,Punjab,Echo,Cyber Threat,Medium,53,Drone,7,Monitoring
+INC00842,2024-02-21,Jammu & Kashmir,Alpha,Ceasefire Violation,High,43,Drone,53,Monitoring
+INC00843,2024-06-17,Gujarat,Charlie,Infiltration,Medium,15,Thermal Camera,28,Resolved
+INC00844,2024-07-18,Jammu & Kashmir,Charlie,Infiltration,High,55,Night Vision,35,Monitoring
+INC00845,2025-02-07,Punjab,Echo,Ceasefire Violation,High,20,Night Vision,23,Under Investigation
+INC00846,2025-09-04,Gujarat,Bravo,Cyber Threat,Medium,56,Radar,31,Under Investigation
+INC00847,2024-10-26,Rajasthan,Bravo,Infiltration,Low,17,Radar,54,Under Investigation
+INC00848,2025-06-09,Jammu & Kashmir,Bravo,Infiltration,High,27,Drone,12,Monitoring
+INC00849,2025-07-29,Jammu & Kashmir,Echo,Infiltration,Medium,16,Radar,37,Under Investigation
+INC00850,2025-03-18,Jammu & Kashmir,Echo,Ceasefire Violation,Medium,11,UAV,21,Under Investigation
+INC00851,2025-03-19,Gujarat,Delta,Infiltration,Medium,59,Drone,58,Under Investigation
+INC00852,2025-05-19,Arunachal Pradesh,Charlie,Drone Activity,Low,49,Night Vision,27,Resolved
+INC00853,2025-10-04,Jammu & Kashmir,Delta,Smuggling,Low,26,Night Vision,12,Resolved
+INC00854,2024-07-02,Jammu & Kashmir,Bravo,Drone Activity,Medium,60,Radar,53,Under Investigation
+INC00855,2025-06-06,Rajasthan,Alpha,Drone Activity,High,60,Thermal Camera,11,Under Investigation
+INC00856,2024-03-22,Punjab,Alpha,Infiltration,High,40,Night Vision,53,Resolved
+INC00857,2024-03-07,Jammu & Kashmir,Alpha,Infiltration,Medium,56,Night Vision,47,Monitoring
+INC00858,2025-07-06,Arunachal Pradesh,Delta,Drone Activity,Low,46,Thermal Camera,52,Monitoring
+INC00859,2025-03-29,Rajasthan,Charlie,Ceasefire Violation,Medium,48,Thermal Camera,28,Monitoring
+INC00860,2025-02-13,Arunachal Pradesh,Delta,Smuggling,Medium,21,Night Vision,40,Resolved
+INC00861,2025-07-09,Jammu & Kashmir,Delta,Ceasefire Violation,High,45,Thermal Camera,18,Resolved
+INC00862,2025-09-29,Arunachal Pradesh,Bravo,Cyber Threat,High,36,UAV,40,Resolved
+INC00863,2024-07-07,Punjab,Delta,Drone Activity,Medium,42,UAV,12,Monitoring
+INC00864,2025-11-15,Rajasthan,Delta,Cyber Threat,Low,55,Radar,25,Under Investigation
+INC00865,2025-11-24,Jammu & Kashmir,Bravo,Ceasefire Violation,Medium,57,Drone,5,Resolved
+INC00866,2024-01-17,Rajasthan,Alpha,Infiltration,Low,30,Radar,44,Resolved
+INC00867,2024-02-22,Gujarat,Echo,Ceasefire Violation,High,19,UAV,22,Monitoring
+INC00868,2025-03-12,Gujarat,Delta,Smuggling,Medium,13,Thermal Camera,11,Under Investigation
+INC00869,2024-12-05,Rajasthan,Delta,Smuggling,High,19,Thermal Camera,9,Monitoring
+INC00870,2024-05-06,Gujarat,Charlie,Infiltration,Low,46,Thermal Camera,45,Monitoring
+INC00871,2025-02-10,Jammu & Kashmir,Alpha,Drone Activity,Medium,22,UAV,41,Monitoring
+INC00872,2024-11-23,Jammu & Kashmir,Bravo,Ceasefire Violation,High,48,Night Vision,47,Monitoring
+INC00873,2024-09-02,Jammu & Kashmir,Delta,Cyber Threat,High,30,Thermal Camera,42,Under Investigation
+INC00874,2025-04-16,Rajasthan,Charlie,Smuggling,Low,22,Night Vision,13,Resolved
+INC00875,2025-10-26,Gujarat,Echo,Ceasefire Violation,High,34,Thermal Camera,29,Monitoring
+INC00876,2024-06-16,Jammu & Kashmir,Delta,Drone Activity,High,13,Night Vision,42,Under Investigation
+INC00877,2024-06-06,Gujarat,Echo,Smuggling,High,40,Thermal Camera,60,Under Investigation
+INC00878,2024-01-09,Jammu & Kashmir,Echo,Ceasefire Violation,Medium,10,UAV,45,Resolved
+INC00879,2024-05-05,Gujarat,Charlie,Smuggling,Medium,49,Drone,17,Monitoring
+INC00880,2024-02-03,Rajasthan,Alpha,Infiltration,High,28,Night Vision,42,Resolved
+INC00881,2025-10-02,Arunachal Pradesh,Charlie,Infiltration,Medium,59,Thermal Camera,14,Monitoring
+INC00882,2025-03-11,Rajasthan,Alpha,Ceasefire Violation,High,35,Drone,35,Resolved
+INC00883,2024-05-26,Jammu & Kashmir,Echo,Infiltration,High,10,Thermal Camera,57,Resolved
+INC00884,2025-06-26,Jammu & Kashmir,Charlie,Drone Activity,High,19,Drone,54,Monitoring
+INC00885,2025-02-20,Gujarat,Bravo,Ceasefire Violation,Medium,23,UAV,26,Monitoring
+INC00886,2025-11-01,Jammu & Kashmir,Delta,Drone Activity,Medium,57,Radar,49,Resolved
+INC00887,2024-09-22,Arunachal Pradesh,Echo,Drone Activity,High,52,Thermal Camera,45,Under Investigation
+INC00888,2024-12-07,Jammu & Kashmir,Alpha,Drone Activity,High,27,Night Vision,55,Under Investigation
+INC00889,2024-05-09,Jammu & Kashmir,Alpha,Ceasefire Violation,High,33,Night Vision,39,Under Investigation
+INC00890,2025-02-05,Arunachal Pradesh,Echo,Drone Activity,Medium,21,Drone,58,Resolved
+INC00891,2024-09-25,Rajasthan,Delta,Smuggling,High,39,Thermal Camera,42,Under Investigation
+INC00892,2024-09-06,Punjab,Bravo,Ceasefire Violation,Medium,29,Radar,40,Resolved
+INC00893,2025-02-24,Jammu & Kashmir,Echo,Drone Activity,Low,25,UAV,36,Resolved
+INC00894,2024-06-20,Gujarat,Delta,Drone Activity,Low,48,Radar,36,Monitoring
+INC00895,2024-09-27,Jammu & Kashmir,Charlie,Drone Activity,Medium,40,Radar,13,Under Investigation
+INC00896,2024-08-02,Gujarat,Charlie,Infiltration,High,43,Drone,49,Monitoring
+INC00897,2024-04-11,Jammu & Kashmir,Delta,Drone Activity,High,17,UAV,37,Under Investigation
+INC00898,2025-08-20,Arunachal Pradesh,Delta,Ceasefire Violation,Medium,39,Drone,26,Under Investigation
+INC00899,2025-11-19,Punjab,Alpha,Infiltration,Medium,38,Night Vision,18,Monitoring
+INC00900,2025-03-16,Arunachal Pradesh,Echo,Ceasefire Violation,High,57,UAV,59,Resolved
+INC00901,2024-04-05,Jammu & Kashmir,Bravo,Ceasefire Violation,High,57,Radar,57,Resolved
+INC00902,2025-05-02,Arunachal Pradesh,Delta,Infiltration,Low,21,UAV,36,Monitoring
+INC00903,2024-01-03,Gujarat,Echo,Ceasefire Violation,High,55,Radar,21,Under Investigation
+INC00904,2024-05-27,Gujarat,Charlie,Cyber Threat,Low,11,Night Vision,14,Resolved
+INC00905,2025-12-10,Jammu & Kashmir,Bravo,Cyber Threat,High,59,Night Vision,32,Under Investigation
+INC00906,2025-02-15,Gujarat,Alpha,Drone Activity,Low,16,Radar,32,Resolved
+INC00907,2025-01-29,Arunachal Pradesh,Delta,Ceasefire Violation,High,22,Thermal Camera,29,Monitoring
+INC00908,2025-08-23,Jammu & Kashmir,Alpha,Infiltration,Medium,57,UAV,16,Under Investigation
+INC00909,2025-01-04,Rajasthan,Delta,Infiltration,Medium,22,Radar,54,Resolved
+INC00910,2025-11-23,Jammu & Kashmir,Delta,Drone Activity,High,53,UAV,10,Resolved
+INC00911,2024-06-30,Rajasthan,Bravo,Infiltration,Medium,31,UAV,27,Under Investigation
+INC00912,2025-06-30,Rajasthan,Delta,Ceasefire Violation,Medium,15,Thermal Camera,20,Under Investigation
+INC00913,2024-06-04,Gujarat,Echo,Ceasefire Violation,Low,23,Thermal Camera,39,Under Investigation
+INC00914,2024-06-22,Jammu & Kashmir,Charlie,Drone Activity,High,20,Drone,19,Monitoring
+INC00915,2025-04-09,Jammu & Kashmir,Charlie,Smuggling,High,31,UAV,24,Monitoring
+INC00916,2025-02-28,Rajasthan,Alpha,Infiltration,High,47,Drone,22,Under Investigation
+INC00917,2025-04-27,Punjab,Bravo,Drone Activity,High,39,UAV,35,Under Investigation
+INC00918,2025-04-10,Jammu & Kashmir,Echo,Drone Activity,Medium,27,Drone,54,Resolved
+INC00919,2025-01-24,Rajasthan,Alpha,Drone Activity,Low,32,Radar,11,Monitoring
+INC00920,2025-01-06,Punjab,Delta,Ceasefire Violation,Medium,25,Drone,55,Resolved
+INC00921,2024-10-29,Jammu & Kashmir,Delta,Drone Activity,High,20,Radar,45,Under Investigation
+INC00922,2024-09-04,Punjab,Delta,Smuggling,High,44,Drone,20,Monitoring
+INC00923,2024-07-05,Jammu & Kashmir,Charlie,Infiltration,Medium,45,Radar,25,Monitoring
+INC00924,2024-09-11,Jammu & Kashmir,Alpha,Ceasefire Violation,High,13,Drone,29,Resolved
+INC00925,2025-09-15,Rajasthan,Charlie,Drone Activity,High,47,Radar,26,Monitoring
+INC00926,2025-05-25,Jammu & Kashmir,Alpha,Infiltration,Medium,21,Radar,40,Monitoring
+INC00927,2024-09-13,Jammu & Kashmir,Charlie,Ceasefire Violation,High,29,Night Vision,52,Monitoring
+INC00928,2024-05-28,Punjab,Bravo,Ceasefire Violation,High,60,Radar,6,Under Investigation
+INC00929,2024-09-09,Arunachal Pradesh,Charlie,Drone Activity,Low,14,Drone,48,Monitoring
+INC00930,2024-07-24,Arunachal Pradesh,Charlie,Smuggling,Medium,38,Thermal Camera,16,Under Investigation
+INC00931,2024-07-29,Punjab,Delta,Ceasefire Violation,High,38,Drone,30,Resolved
+INC00932,2024-01-15,Arunachal Pradesh,Delta,Infiltration,High,46,Radar,23,Resolved
+INC00933,2025-09-02,Jammu & Kashmir,Echo,Infiltration,Medium,45,Radar,6,Monitoring
+INC00934,2024-05-18,Arunachal Pradesh,Charlie,Drone Activity,Low,56,UAV,45,Resolved
+INC00935,2024-09-03,Arunachal Pradesh,Bravo,Smuggling,Medium,54,Radar,28,Monitoring
+INC00936,2024-06-04,Rajasthan,Delta,Ceasefire Violation,High,57,Thermal Camera,31,Monitoring
+INC00937,2025-04-19,Gujarat,Echo,Smuggling,High,31,Radar,42,Monitoring
+INC00938,2025-06-01,Punjab,Bravo,Smuggling,High,31,UAV,58,Under Investigation
+INC00939,2024-04-04,Gujarat,Bravo,Smuggling,Medium,53,Drone,13,Resolved
+INC00940,2025-07-24,Punjab,Delta,Infiltration,Medium,41,UAV,39,Resolved
+INC00941,2025-07-07,Rajasthan,Delta,Infiltration,High,19,Radar,21,Resolved
+INC00942,2025-01-07,Arunachal Pradesh,Echo,Drone Activity,High,13,Drone,33,Under Investigation
+INC00943,2025-11-21,Rajasthan,Delta,Infiltration,High,31,UAV,26,Resolved
+INC00944,2024-02-21,Jammu & Kashmir,Delta,Infiltration,High,11,Drone,25,Resolved
+INC00945,2025-06-14,Arunachal Pradesh,Echo,Cyber Threat,Low,55,Radar,22,Under Investigation
+INC00946,2024-04-18,Punjab,Delta,Cyber Threat,Low,54,Night Vision,27,Monitoring
+INC00947,2025-11-27,Jammu & Kashmir,Charlie,Drone Activity,High,17,Night Vision,32,Under Investigation
+INC00948,2025-10-02,Arunachal Pradesh,Bravo,Infiltration,High,32,Thermal Camera,60,Monitoring
+INC00949,2025-01-15,Jammu & Kashmir,Bravo,Drone Activity,Medium,60,Radar,23,Under Investigation
+INC00950,2025-05-27,Gujarat,Alpha,Drone Activity,Medium,41,UAV,50,Under Investigation
+INC00951,2025-04-20,Punjab,Bravo,Smuggling,Medium,49,Night Vision,25,Monitoring
+INC00952,2025-04-23,Jammu & Kashmir,Echo,Smuggling,High,55,Radar,32,Monitoring
+INC00953,2025-05-31,Punjab,Delta,Ceasefire Violation,High,43,Thermal Camera,8,Under Investigation
+INC00954,2025-05-26,Jammu & Kashmir,Alpha,Infiltration,Medium,30,Drone,60,Resolved
+INC00955,2024-08-02,Punjab,Delta,Smuggling,Medium,57,Night Vision,18,Under Investigation
+INC00956,2024-03-13,Arunachal Pradesh,Echo,Ceasefire Violation,High,25,Drone,51,Under Investigation
+INC00957,2024-08-13,Rajasthan,Charlie,Drone Activity,Medium,17,Thermal Camera,44,Under Investigation
+INC00958,2025-11-23,Punjab,Echo,Smuggling,Medium,45,Drone,39,Under Investigation
+INC00959,2024-09-17,Jammu & Kashmir,Echo,Infiltration,Medium,19,Night Vision,14,Monitoring
+INC00960,2024-04-17,Jammu & Kashmir,Delta,Smuggling,High,58,Night Vision,10,Under Investigation
+INC00961,2025-02-08,Gujarat,Alpha,Infiltration,High,10,Drone,19,Monitoring
+INC00962,2025-08-27,Rajasthan,Alpha,Ceasefire Violation,Medium,46,Night Vision,55,Under Investigation
+INC00963,2024-08-24,Rajasthan,Bravo,Smuggling,High,18,Radar,38,Resolved
+INC00964,2024-03-05,Gujarat,Charlie,Ceasefire Violation,Low,12,Radar,48,Resolved
+INC00965,2025-11-30,Arunachal Pradesh,Delta,Drone Activity,Medium,60,Night Vision,32,Monitoring
+INC00966,2024-10-04,Gujarat,Bravo,Drone Activity,High,60,Night Vision,42,Monitoring
+INC00967,2024-09-18,Gujarat,Delta,Drone Activity,Medium,23,Night Vision,21,Resolved
+INC00968,2024-10-19,Rajasthan,Charlie,Infiltration,High,38,Radar,50,Monitoring
+INC00969,2024-06-30,Jammu & Kashmir,Charlie,Ceasefire Violation,High,53,Radar,21,Resolved
+INC00970,2024-06-23,Jammu & Kashmir,Echo,Drone Activity,High,11,Thermal Camera,53,Resolved
+INC00971,2025-09-07,Jammu & Kashmir,Alpha,Ceasefire Violation,High,27,Radar,15,Monitoring
+INC00972,2025-01-31,Rajasthan,Echo,Infiltration,High,34,Night Vision,19,Monitoring
+INC00973,2025-04-01,Punjab,Echo,Ceasefire Violation,High,44,Thermal Camera,21,Resolved
+INC00974,2024-05-25,Arunachal Pradesh,Echo,Infiltration,High,20,Drone,28,Under Investigation
+INC00975,2025-10-16,Punjab,Alpha,Ceasefire Violation,High,24,Night Vision,49,Under Investigation
+INC00976,2024-11-08,Gujarat,Charlie,Ceasefire Violation,High,19,Thermal Camera,25,Under Investigation
+INC00977,2024-10-15,Jammu & Kashmir,Echo,Drone Activity,High,47,UAV,35,Under Investigation
+INC00978,2025-01-20,Jammu & Kashmir,Charlie,Infiltration,Low,53,Thermal Camera,17,Monitoring
+INC00979,2025-02-22,Jammu & Kashmir,Echo,Smuggling,High,48,UAV,23,Monitoring
+INC00980,2025-05-08,Gujarat,Charlie,Infiltration,Low,55,UAV,44,Monitoring
+INC00981,2025-01-05,Jammu & Kashmir,Echo,Smuggling,Medium,15,Thermal Camera,22,Resolved
+INC00982,2024-08-29,Jammu & Kashmir,Charlie,Infiltration,Medium,27,Drone,15,Resolved
+INC00983,2025-01-08,Jammu & Kashmir,Bravo,Infiltration,Medium,12,Night Vision,18,Under Investigation
+INC00984,2025-03-08,Rajasthan,Bravo,Infiltration,High,42,UAV,16,Monitoring
+INC00985,2025-06-22,Arunachal Pradesh,Alpha,Drone Activity,Medium,33,Radar,46,Monitoring
+INC00986,2024-01-23,Punjab,Charlie,Infiltration,High,18,UAV,8,Monitoring
+INC00987,2025-01-28,Punjab,Delta,Ceasefire Violation,Medium,53,Radar,47,Monitoring
+INC00988,2025-12-27,Rajasthan,Delta,Smuggling,Medium,38,Thermal Camera,32,Resolved
+INC00989,2024-07-10,Gujarat,Alpha,Cyber Threat,Low,43,Thermal Camera,13,Resolved
+INC00990,2025-02-14,Punjab,Charlie,Drone Activity,High,21,UAV,44,Under Investigation
+INC00991,2024-04-03,Gujarat,Bravo,Drone Activity,Medium,36,Radar,25,Resolved
+INC00992,2024-08-12,Jammu & Kashmir,Bravo,Infiltration,High,18,Radar,20,Monitoring
+INC00993,2024-09-02,Jammu & Kashmir,Bravo,Ceasefire Violation,High,23,Night Vision,58,Resolved
+INC00994,2025-04-28,Jammu & Kashmir,Alpha,Drone Activity,Medium,17,Night Vision,56,Resolved
+INC00995,2025-04-11,Jammu & Kashmir,Alpha,Infiltration,Medium,36,UAV,26,Resolved
+INC00996,2025-06-11,Punjab,Alpha,Ceasefire Violation,High,31,Thermal Camera,9,Monitoring
+INC00997,2025-06-23,Punjab,Bravo,Ceasefire Violation,High,36,UAV,27,Monitoring
+INC00998,2024-07-06,Punjab,Charlie,Smuggling,Low,54,Night Vision,41,Resolved
+INC00999,2025-03-19,Rajasthan,Charlie,Drone Activity,Medium,42,Thermal Camera,27,Under Investigation
+INC01000,2025-06-05,Jammu & Kashmir,Charlie,Ceasefire Violation,High,41,Thermal Camera,30,Under Investigation
